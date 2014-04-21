@@ -1,0 +1,9880 @@
+--- !!perl/hash:Vocabulary 
+Latein: 
+  "01": 
+    - 
+      - 
+        - die Villa
+        - Landhaus
+        - das Landgut
+      - 
+        - villa
+      - 
+        - 4
+        - 1
+    - 
+      - 
+        - die Figur
+        - Gestalt
+      - 
+        - figura
+      - 
+        - 6
+    - 
+      - 
+        - die Form
+        - Gestallt
+      - 
+        - forma
+      - 
+        - 5
+    - 
+      - 
+        - die Statue
+        - das Standbild
+      - 
+        - statua
+      - 
+        - 4
+    - 
+      - 
+        - die Flamme
+        - das Feuer
+      - 
+        - flamma
+      - 
+        - 4
+    - 
+      - 
+        - die Fabel
+        - die Geschichte
+        - die Erzählung
+        - das Theaterstück
+      - 
+        - fabula
+      - 
+        - 4
+    - 
+      - 
+        - die Insel
+        - der Wohnblock
+      - 
+        - insula
+      - 
+        - 4
+    - 
+      - 
+        - die Natur
+      - 
+        - natura
+      - 
+        - 4
+    - 
+      - 
+        - das Tier
+      - 
+        - bestia
+      - 
+        - 5
+    - 
+      - 
+        - der Brief
+      - 
+        - epistula
+      - 
+        - 4
+    - 
+      - 
+        - die Summe
+        - Gesammtheit
+      - 
+        - summa
+      - 
+        - 4
+    - 
+      - 
+        - der Gott
+      - 
+        - deus
+      - 
+        - 4
+    - 
+      - 
+        - die Göttin
+      - 
+        - dea
+      - 
+        - 4
+    - 
+      - 
+        - der Herr
+      - 
+        - dominus
+      - 
+        - 6
+    - 
+      - 
+        - die Herrin
+      - 
+        - domina
+      - 
+        - 3
+        - 1
+    - 
+      - 
+        - der Sohn
+      - 
+        - filius
+      - 
+        - 4
+    - 
+      - 
+        - die Tochter
+      - 
+        - filia
+      - 
+        - 5
+    - 
+      - 
+        - der Freund
+      - 
+        - amicus
+      - 
+        - 6
+    - 
+      - 
+        - die Freundin
+      - 
+        - amica
+      - 
+        - 5
+    - 
+      - 
+        - der Sklave
+        - der Knecht
+      - 
+        - servus
+      - 
+        - 4
+    - 
+      - 
+        - die Sklavin
+      - 
+        - serva
+      - 
+        - 5
+    - 
+      - 
+        - und
+      - 
+        - et
+      - 
+        - 4
+    - &3 
+      - 
+        - Rom
+      - 
+        - Roma
+      - 
+        - 3
+        - 1
+  "02": 
+    - 
+      - 
+        - der Vater
+      - 
+        - pater
+      - 
+        - 1
+    - 
+      - 
+        - die Mutter
+      - 
+        - mater
+      - 
+        - 1
+    - 
+      - 
+        - schreien
+        - laut rufen
+      - 
+        - clamare
+      - 
+        - 1
+    - 
+      - 
+        - eilen
+        - sich beeilen
+      - 
+        - properare
+      - 
+        - 1
+    - 
+      - 
+        - die Tafel
+        - das Gemälde
+      - 
+        - tabula
+      - 
+        - 1
+    - 
+      - 
+        - zögern
+        - säumen
+      - 
+        - cessare
+      - 
+        - 1
+    - 
+      - 
+        - betrachten
+        - sehen
+        - (an)schauen
+      - 
+        - spectare
+      - 
+        - 1
+    - 
+      - 
+        - ausschauen
+        - (er)warten
+      - 
+        - exspectare
+      - 
+        - 1
+    - 
+      - 
+        - eintretten
+        - hineingehen
+        - betreten
+      - 
+        - intrare
+      - 
+        - 1
+    - 
+      - 
+        - fragen
+        - bitten
+      - 
+        - rogare
+      - 
+        - 1
+    - 
+      - 
+        - arbeiten
+      - 
+        - laborare
+      - 
+        - 1
+    - 
+      - 
+        - warum?
+      - 
+        - cur
+      - 
+        - 1
+    - 
+      - 
+        - wo?
+      - 
+        - ubi
+      - 
+        - 1
+    - 
+      - 
+        - nun
+        - jetzt
+      - 
+        - nunc
+      - 
+        - 1
+    - 
+      - 
+        - immer
+        - stets
+      - 
+        - semper
+      - 
+        - 1
+    - &2 
+      - 
+        - nahen
+        - sich nähern
+      - 
+        - appropinquare
+      - 
+        - ~
+        - 1
+    - 
+      - 
+        - wiederum
+      - 
+        - iterum
+      - 
+        - 1
+    - 
+      - 
+        - schon
+        - bereits
+      - 
+        - iam
+      - 
+        - 1
+    - 
+      - 
+        - endlich
+        - schließlich
+      - 
+        - tandem
+      - 
+        - 1
+    - 
+      - 
+        - plötzlich
+      - 
+        - subito
+      - 
+        - 1
+    - 
+      - 
+        - hier
+      - 
+        - hic
+      - 
+        - 1
+    - 
+      - 
+        - da
+        - dann
+        - damals
+        - darauf
+      - 
+        - tum
+      - 
+        - 1
+  "03": 
+    - 
+      - 
+        - die Mahlzeit
+      - 
+        - cena
+    - 
+      - 
+        - das Wasser
+      - 
+        - aqua
+    - 
+      - 
+        - die Speiße
+        - Nahrung
+      - 
+        - cibus
+    - 
+      - 
+        - wen
+      - 
+        - quem
+        - quem?
+    - 
+      - 
+        - mich (+ Akk.)
+      - 
+        - me
+    - 
+      - 
+        - dich (+ Akk.)
+      - 
+        - te
+    - 
+      - 
+        - rufen
+        - nennen
+      - 
+        - vocare
+    - 
+      - 
+        - erzählen
+      - 
+        - narrare
+    - 
+      - 
+        - die Sorge
+        - die Sorgfalt
+      - 
+        - cura
+    - 
+      - 
+        - der Grund
+        - die Ursache
+        - der Prozess
+        - ", ,"
+      - 
+        - causa
+    - 
+      - 
+        - das Feld
+        - die Ebene
+      - 
+        - campus
+    - 
+      - 
+        - das Pferd
+      - 
+        - equus
+    - 
+      - 
+        - der Garten
+      - 
+        - hortus
+    - 
+      - 
+        - (be)sorgen
+        - versorgen
+        - plegen
+      - 
+        - curare
+      - 
+        - 1
+    - 
+      - 
+        - (vor)bereiten
+        - erwerben
+      - 
+        - parare
+    - 
+      - 
+        - bringen
+        - tragen
+      - 
+        - portare
+    - 
+      - 
+        - herbei bringen
+      - 
+        - apportare
+    - 
+      - 
+        - erfreuen
+        - Freude machen
+      - 
+        - delectare
+    - &1 
+      - 
+        - auch
+        - sogar
+      - 
+        - etiam
+      - 
+        - ~
+        - 1
+    - 
+      - 
+        - sieh da!
+      - 
+        - ecce!
+        - ecce
+      - 
+        - 1
+    - 
+      - 
+        - loben
+      - 
+        - laudare
+    - 
+      - 
+        - erschaffen
+        - verursachen
+        - wählen
+      - 
+        - creare
+    - 
+      - 
+        - nicht kennen
+        - nicht wissen
+      - 
+        - ignorare
+    - 
+      - 
+        - (ver)meiden
+      - 
+        - vitare
+    - 
+      - 
+        - denn
+      - 
+        - nam
+    - 
+      - 
+        - aber
+        - sondern
+      - 
+        - sed
+  "04": 
+    - 
+      - 
+        - der Tisch
+      - 
+        - mensa
+    - 
+      - 
+        - der Gast
+      - 
+        - conviva
+    - 
+      - 
+        - wem?
+      - 
+        - cui?
+        - cui
+    - 
+      - 
+        - mir (Dat.)
+      - 
+        - mihi
+    - 
+      - 
+        - dir (Dat.)
+      - 
+        - tibi
+    - 
+      - 
+        - befehlen
+        - gebieten
+      - 
+        - imperare
+    - 
+      - 
+        - geben
+      - 
+        - dare
+    - 
+      - 
+        - das Geld
+      - 
+        - pecunia
+    - 
+      - 
+        - die Vaterstadt
+        - das Vaterland
+        - die Heimat
+      - 
+        - patria
+    - 
+      - 
+        - erziehen
+      - 
+        - educare
+    - 
+      - 
+        - (be)schenken
+      - 
+        - donare
+    - 
+      - 
+        - quählen
+        - heim suchen
+      - 
+        - vexare
+    - 
+      - 
+        - lieben
+      - 
+        - amare
+    - 
+      - 
+        - ausstatten
+        - schmücken
+      - 
+        - ornare
+      - 
+        - 1
+    - 
+      - 
+        - melden
+        - verkünden
+      - 
+        - nuntiare
+    - 
+      - 
+        - übergeben
+        - anvertrauen
+        - auftragen
+      - 
+        - mandare
+    - 
+      - 
+        - sofort
+        - sogleich
+      - 
+        - statim
+      - 
+        - 1
+    - 
+      - 
+        - nicht
+      - 
+        - non
+      - 
+        - 1
+    - 
+      - 
+        - nur
+      - 
+        - solum
+    - 
+      - 
+        - nicht nur
+      - 
+        - non solum
+    - 
+      - 
+        - sondern auch
+      - 
+        - sed etiam
+    - 
+      - 
+        - oft
+      - 
+        - saepe
+    - 
+      - 
+        - daher
+        - desshalb
+      - 
+        - itaque
+    - 
+      - 
+        - manchmal
+        - bissweilen
+      - 
+        - interdum
+        - nonnumquam
+    - 
+      - 
+        - Italien
+      - 
+        - Italia
+  "05": 
+    - 
+      - 
+        - die Kühnheit
+        - der Wagemut
+      - 
+        - audacia
+    - 
+      - 
+        - der Sieg
+      - 
+        - victoria
+      - 
+        - 1
+    - 
+      - 
+        - die Sorgfallt
+        - die Umsicht
+      - 
+        - diligentia
+      - 
+        - 1
+    - 
+      - 
+        - das Spiel
+        - die Schule
+      - 
+        - ludus
+    - 
+      - 
+        - die Seele
+        - der Geist
+        - die Gesinnung
+        - das Herz
+        - der Mut
+      - 
+        - animus
+    - 
+      - 
+        - wessen?
+      - 
+        - cuius
+        - cuius?
+    - 
+      - 
+        - die Gunst
+        - der Dank
+      - 
+        - gratia
+    - 
+      - 
+        - die Menge
+        - die Fülle
+        - der Vorrat
+      - 
+        - copia
+    - 
+      - 
+        - die Freude
+      - 
+        - laetitia
+    - 
+      - 
+        - die Sandfläche
+        - der Kampfplatz
+      - 
+        - arena
+    - 
+      - 
+        - der Kampf
+      - 
+        - pugna
+      - 
+        - 1
+    - 
+      - 
+        - das Volk
+      - 
+        - populus
+    - 
+      - 
+        - der Karren
+        - der Wagen
+      - 
+        - carrus
+    - 
+      - 
+        - der Elefant
+      - 
+        - elephantus
+      - 
+        - 1
+    - 
+      - 
+        - kämpfen
+      - 
+        - pugnare
+    - 
+      - 
+        - ersehnen
+        - vermissen
+      - 
+        - desiderare
+    - 
+      - 
+        - befehlen
+        - versuchen
+        - angreifen
+      - 
+        - temptare
+    - 
+      - 
+        - verwunden
+      - 
+        - vulnerare
+    - 
+      - 
+        - töten
+      - 
+        - necare
+    - 
+      - 
+        - heute
+      - 
+        - hodie
+    - 
+      - 
+        - jubeln
+      - 
+        - exsultare
+    - 
+      - 
+        - erregen
+        - wecken
+        - ermuntern
+      - 
+        - excitare
+    - 
+      - 
+        - nachher
+        - später
+      - 
+        - postea
+    - 
+      - 
+        - gern
+      - 
+        - libenter
+    - 
+      - 
+        - aber
+      - 
+        - autem
+    - 
+      - 
+        - Römer
+      - 
+        - Romani
+    - 
+      - 
+        - Afrika
+      - 
+        - Africa
+    - 
+      - 
+        - Germanien
+      - 
+        - Germania
+  "06": 
+    - 
+      - 
+        - das Mädchen
+      - 
+        - puella
+    - 
+      - 
+        - das Auge
+      - 
+        - oculus
+      - 
+        - 1
+    - 
+      - 
+        - fangen
+        - fassen
+      - 
+        - captare
+    - 
+      - 
+        - (er)mahnen
+        - erinnern
+      - 
+        - monere
+        - admonere
+    - 
+      - 
+        - (ver)lachen
+      - 
+        - ridere
+      - 
+        - 1
+    - 
+      - 
+        - die Stunde
+      - 
+        - hora
+    - 
+      - 
+        - die List
+        - die Täuschung
+      - 
+        - dolus
+    - 
+      - 
+        - irren
+        - sich verirren
+      - 
+        - errare
+    - 
+      - 
+        - vorgeben
+        - heucheln
+      - 
+        - simulare
+    - 
+      - 
+        - fliegen
+        - eilen
+      - 
+        - volare
+    - 
+      - 
+        - herbeieilen
+      - 
+        - advolare
+    - 
+      - 
+        - schweigen
+      - 
+        - tacere
+    - 
+      - 
+        - (sich) fürchten
+      - 
+        - timere
+    - 
+      - 
+        - (er)schrecken
+      - 
+        - terrere
+    - 
+      - 
+        - es freut
+      - 
+        - iuvat
+    - 
+      - 
+        - es ist erlaubt
+      - 
+        - licet
+    - 
+      - 
+        - er (sie,es) will
+      - 
+        - vult
+    - 
+      - 
+        - nicht mehr
+      - 
+        - non iam
+    - 
+      - 
+        - beinahe
+        - fast
+      - 
+        - paene
+    - 
+      - 
+        - speisen
+        - essen
+      - 
+        - cenare
+    - 
+      - 
+        - sehen
+      - 
+        - videre
+      - 
+        - 1
+    - 
+      - 
+        - haben
+        - halten
+      - 
+        - habere
+    - 
+      - 
+        - anwenden
+        - beiziehen
+      - 
+        - adhibere
+    - 
+      - 
+        - (be)weinen
+      - 
+        - flere
+    - 
+      - 
+        - halten
+      - 
+        - habere
+        - tenere
+    - 
+      - 
+        - dennoch
+      - 
+        - tamen
+  "07": 
+    - 
+      - 
+        - der Onkel
+      - 
+        - avunculus
+    - 
+      - 
+        - der Tribun
+        - der Offizier
+      - 
+        - tribunus
+    - 
+      - 
+        - du
+      - 
+        - tu
+    - 
+      - 
+        - wer?
+      - 
+        - quis?
+        - quis
+    - 
+      - 
+        - was?
+      - 
+        - quid
+        - quid?
+    - 
+      - 
+        - die Rechte
+        - die Rechte Hand
+      - 
+        - dextra
+        - dextera
+    - 
+      - 
+        - die Provinz
+        - der Amtsbereich
+      - 
+        - provincia
+    - 
+      - 
+        - der Legionär
+      - 
+        - legionarius
+    - 
+      - 
+        - zurückweisen
+        - verschmähen
+      - 
+        - repudiare
+    - 
+      - 
+        - bewahren
+        - retten
+      - 
+        - conservare
+        - servare
+    - 
+      - 
+        - erobern
+      - 
+        - expugnare
+    - 
+      - 
+        - genau/wohl wissen
+        - gut kennen
+      - 
+        - non ignorare
+    - 
+      - 
+        - also
+      - 
+        - igitur
+    - 
+      - 
+        - so
+      - 
+        - ita
+    - 
+      - 
+        - gesund sein
+        - vermögen
+      - 
+        - valere
+    - 
+      - 
+        - gewohnt sein
+        - pflegen
+      - 
+        - solere
+    - 
+      - 
+        - schulden
+        - müssen
+      - 
+        - debere
+    - 
+      - 
+        - dort
+      - 
+        - ibi
+    - 
+      - 
+        - zuletzt
+        - schließlich
+      - 
+        - postremo
+    - 
+      - 
+        - wie, als (beim Vergleich)
+      - 
+        - quam
+  "08": 
+    - 
+      - 
+        - der Ruhm
+        - die Ehre
+      - 
+        - gloria
+    - 
+      - 
+        - der Barbar
+      - 
+        - barbarus
+    - 
+      - 
+        - die Mauer
+      - 
+        - murus
+    - 
+      - 
+        - wachen
+        - wach(sam) sein
+      - 
+        - vigilare
+    - 
+      - 
+        - glauben
+        - meinen
+      - 
+        - putare
+    - 
+      - 
+        - die Flucht
+      - 
+        - fuga
+    - 
+      - 
+        - der Sinnesspruch
+        - der Satz
+        - die Meinung
+      - 
+        - sententia
+    - 
+      - 
+        - die Welt
+      - 
+        - mundus
+    - 
+      - 
+        - uns (Dat.)
+      - 
+        - nobis
+    - 
+      - 
+        - euch (Dat.)
+      - 
+        - vobis
+    - 
+      - 
+        - sich (Akk.)
+      - 
+        - se
+    - 
+      - 
+        - entfalten
+        - erklähren
+      - 
+        - explicare
+    - 
+      - 
+        - übertreffen
+        - überwinden
+      - 
+        - superare
+    - 
+      - 
+        - gehorchen
+      - 
+        - parere
+    - 
+      - 
+        - zurückhalten
+      - 
+        - retinere
+    - 
+      - 
+        - sitzen
+      - 
+        - sedere
+    - 
+      - 
+        - sich bemühen
+      - 
+        - studere
+    - 
+      - 
+        - wie
+      - 
+        - ut
+    - 
+      - 
+        - stehen
+      - 
+        - stare
+    - 
+      - 
+        - bekämpfen
+        - bestürmen
+        - angreifen
+      - 
+        - oppugnare
+    - 
+      - 
+        - beten
+        - bitten
+      - 
+        - orare
+    - 
+      - 
+        - lehren
+        - unterrichten
+      - 
+        - docere
+    - 
+      - 
+        - sehr
+      - 
+        - valde
+  "09": 
+    - 
+      - 
+        - der Pfeil
+      - 
+        - sagitta
+    - 
+      - 
+        - der Raub(zug)
+      - 
+        - rapina
+    - 
+      - 
+        - die Frau
+      - 
+        - femina
+    - 
+      - 
+        - die Beute
+      - 
+        - praeda
+    - 
+      - 
+        - der (Ein-)Sturz
+        - "Plural: die Tr\xFCmmer"
+      - 
+        - ruina
+    - 
+      - 
+        - das Schwert
+      - 
+        - gladius
+    - 
+      - 
+        - der Fluß
+      - 
+        - fluvius
+    - 
+      - 
+        - der Bauer
+      - 
+        - agricola
+        - rusticus
+    - 
+      - 
+        - wir (Nom.)
+      - 
+        - nos
+    - 
+      - 
+        - nichts
+      - 
+        - nihil
+    - 
+      - 
+        - wenn nicht
+      - 
+        - nisi
+    - 
+      - 
+        - nichts außer
+        - nur
+      - 
+        - nihil nisi
+    - 
+      - 
+        - rauben
+        - wegschnappen
+      - 
+        - raptare
+    - 
+      - 
+        - beladen
+        - belasten
+      - 
+        - onerare
+    - 
+      - 
+        - befreien
+      - 
+        - liberare
+    - 
+      - 
+        - zerstören
+        - vernichten
+      - 
+        - delere
+    - 
+      - 
+        - oder
+      - 
+        - vel
+    - 
+      - 
+        - Donau
+      - 
+        - Danuvius
+    - 
+      - 
+        - Rhein
+      - 
+        - Rhenus
+    - 
+      - 
+        - (an)füllen
+        - erfüllen
+      - 
+        - complere
+        - implere
+    - 
+      - 
+        - abhalten
+        - abwehren
+      - 
+        - arcere
+    - 
+      - 
+        - (zu) spät
+      - 
+        - sero
+    - 
+      - 
+        - selten
+      - 
+        - raro
+    - 
+      - 
+        - mit Recht
+      - 
+        - iure
+    - 
+      - 
+        - so
+        - auf diese Weise
+      - 
+        - sic
+  10: 
+    - 
+      - 
+        - die Eintracht
+      - 
+        - concordia
+    - 
+      - 
+        - das Wort
+      - 
+        - verbum
+    - 
+      - 
+        - der Marktplatz
+      - 
+        - forum
+    - 
+      - 
+        - der Tempel
+      - 
+        - templum
+    - 
+      - 
+        - das Gebäude
+      - 
+        - aedificium
+    - 
+      - 
+        - das Kunstwerk
+      - 
+        - artificium
+    - 
+      - 
+        - die Halle, das Haus
+      - 
+        - atrium
+    - 
+      - 
+        - das Haus, Dach
+      - 
+        - tectum
+    - 
+      - 
+        - der Befehl, die Herrschaft, das Reich
+      - 
+        - imperium
+    - 
+      - 
+        - der Altar
+      - 
+        - ara
+    - 
+      - 
+        - die Macht, Gewalt
+      - 
+        - potentia
+    - 
+      - 
+        - die Ratsversammlung, der Rat(schlag), Plan
+      - 
+        - consilium
+    - 
+      - 
+        - die Hilfe
+      - 
+        - auxilium
+    - 
+      - 
+        - der Krieg, der Kampf
+      - 
+        - bellum
+    - 
+      - 
+        - das Geschenk
+      - 
+        - donum
+    - 
+      - 
+        - (er)bauen
+      - 
+        - aedificare
+    - 
+      - 
+        - anflehen, erflehen
+      - 
+        - implorare
+    - 
+      - 
+        - gefallen
+      - 
+        - placere
+    - 
+      - 
+        - zusammenhalten
+      - 
+        - continere
+    - 
+      - 
+        - wenn
+      - 
+        - si
+    - 
+      - 
+        - wie, zum Beispiel
+      - 
+        - velut
+    - 
+      - 
+        - das Bild, Götterbild
+      - 
+        - simulacrum
+    - 
+      - 
+        - das Opfer
+      - 
+        - sacrificium
+    - 
+      - 
+        - die (Land-)Stadt, Festung
+      - 
+        - oppidum
+    - 
+      - 
+        - versöhnen
+      - 
+        - placare
+    - 
+      - 
+        - entweder...oder
+      - 
+        - vel vel
+        - vel...vel
+    - 
+      - 
+        - so sehr
+      - 
+        - adeo
+  100: []
+
+  101: 
+    - 
+      - 
+        - Vertrauen, Zuversicht
+      - 
+        - fiducia
+    - 
+      - 
+        - Schatten
+      - 
+        - umbra
+    - 
+      - 
+        - Anfang, Beginn
+      - 
+        - initium
+    - 
+      - 
+        - Scham, Scheu, Ehrgefühl
+      - 
+        - pudor
+    - 
+      - 
+        - früher, ehemalig
+      - 
+        - pristinus
+    - 
+      - 
+        - traurig, betrübt
+      - 
+        - maestus
+    - 
+      - 
+        - ermüden, erschöpfen
+      - 
+        - fatigare
+    - 
+      - 
+        - verheimlichen, verleugnen
+      - 
+        - dissimulare
+    - 
+      - 
+        - sich freuen
+      - 
+        - laetari
+    - 
+      - 
+        - vor (Ortsangabe/Verhinderungsgrund)
+      - 
+        - prae
+    - 
+      - 
+        - öffentlich
+      - 
+        - palam
+    - 
+      - 
+        - unüberlegt, leichtfertig
+      - 
+        - temere
+    - 
+      - 
+        - dagegen, völlig anders
+      - 
+        - contra
+    - 
+      - 
+        - (all)zu sehr
+      - 
+        - nimis
+    - 
+      - 
+        - + Formen
+        - schätzen, meinen
+      - 
+        - censere, censeo, censui, censum
+    - 
+      - 
+        - + Formen
+        - begehren
+      - 
+        - appetere, appeto, appetivi, appetitum
+    - 
+      - 
+        - + Formen
+        - anstoßen, antreffen, beleidigen
+      - 
+        - offendere, offendo, offendi, offensum
+  102: 
+    - 
+      - 
+        - Anmaßung
+      - 
+        - arrogantia
+    - 
+      - 
+        - Gestalt, Wuchs
+      - 
+        - statura
+    - 
+      - 
+        - Einrichtung, Grundsatz
+      - 
+        - institutum
+    - 
+      - 
+        - Hälfte
+      - 
+        - dimidium
+    - 
+      - 
+        - halb
+      - 
+        - dimidius
+    - 
+      - 
+        - Trieb, Verlangen, Willkür
+      - 
+        - libido
+    - 
+      - 
+        - Farbe
+      - 
+        - color
+    - 
+      - 
+        - verkehrt, schlecht
+      - 
+        - pravus
+    - 
+      - 
+        - aufragend, erhaben
+      - 
+        - celsus
+        - excelsus
+    - 
+      - 
+        - gleichmaßen, erreichen
+      - 
+        - aequare
+    - 
+      - 
+        - + Formen
+        - messen, bemessen
+      - 
+        - metiri, metior, mensus sum
+    - 
+      - 
+        - + Formen
+        - erledigen, sterben (+ Abl)
+      - 
+        - defungi, defungor, defunctus sum
+  103: 
+    - 
+      - 
+        - Mond
+      - 
+        - luna
+    - 
+      - 
+        - Feiertage
+      - 
+        - feriae
+    - 
+      - 
+        - Land, Landgut
+      - 
+        - rus
+    - 
+      - 
+        - Wand
+      - 
+        - paries
+    - 
+      - 
+        - Auswahl, Musterung, Aushebung (von Soldaten)
+      - 
+        - dilectus
+    - 
+      - 
+        - den Winter zubringen, überwintern
+      - 
+        - hiemare
+    - 
+      - 
+        - anfangen
+      - 
+        - incohare
+    - 
+      - 
+        - offen, offenkundig
+      - 
+        - apertus
+    - 
+      - 
+        - + Formen
+        - folgen, verfolgen
+      - 
+        - insequi, insequor, insecutus sum
+    - 
+      - 
+        - + Formen
+        - zurückkehren
+      - 
+        - reverti, revertor, reverti
+    - 
+      - 
+        - befragen, beratschlagen
+      - 
+        - consultare
+  104: 
+    - 
+      - 
+        - Bennenung, Wort
+      - 
+        - vocabulum
+    - 
+      - 
+        - Gelegenheit
+      - 
+        - occasio
+    - 
+      - 
+        - Möglichkeit, Fähigkeit, Mittel
+      - 
+        - facultas
+    - 
+      - 
+        - Herde, Schar
+      - 
+        - grex
+    - 
+      - 
+        - begierig, gierig
+      - 
+        - avidus
+    - 
+      - 
+        - heiter
+      - 
+        - serenus
+    - 
+      - 
+        - sorgfältig, gewissenhaft
+      - 
+        - diligens
+    - 
+      - 
+        - erwägen, überlegen
+      - 
+        - deliberare
+    - 
+      - 
+        - bitten, beten, wünschen
+      - 
+        - precari
+    - 
+      - 
+        - + Formen
+        - versprechen
+      - 
+        - polliceri, polliceor, pollicitus sum
+    - 
+      - 
+        - vielleicht
+      - 
+        - fortasse
+    - 
+      - 
+        - vielmehr, eher, lieber
+      - 
+        - potius
+  105: 
+    - 
+      - 
+        - Seeräuber
+      - 
+        - pirata
+    - 
+      - 
+        - Volksversammlung
+      - 
+        - comitia
+    - 
+      - 
+        - Winterlager
+      - 
+        - hiberna
+    - 
+      - 
+        - Frage, Untersuchung
+      - 
+        - quaestio
+    - 
+      - 
+        - Kälte, Frost, Schauer
+      - 
+        - frigus
+    - 
+      - 
+        - sklavisch, Sklaven betreffend
+      - 
+        - servilis, servile
+    - 
+      - 
+        - wiederherstellen, erfrischen
+      - 
+        - recreare
+    - 
+      - 
+        - bewachen, verwahren
+      - 
+        - custodire
+    - 
+      - 
+        - + Formen
+        - berichtigen, verbessern
+      - 
+        - corrigere, corrigo, correxi, correctum
+    - 
+      - 
+        - alljährlich (adv)
+      - 
+        - quotannis
+    - 
+      - 
+        - wechselweise, gegenseitig
+      - 
+        - invicem
+  106: 
+    - 
+      - 
+        - Tier, Untier
+      - 
+        - belua
+    - 
+      - 
+        - Schwierigkeit, Verlegenheit
+      - 
+        - difficultas
+    - 
+      - 
+        - langsam, spät
+      - 
+        - tardus
+    - 
+      - 
+        - tatkräftig, energisch, entschlossen
+      - 
+        - strenuus
+    - 
+      - 
+        - ungeheuer, insetzlich, riesig
+      - 
+        - immanis, immane
+    - 
+      - 
+        - philosophieren
+      - 
+        - philosophari
+    - 
+      - 
+        - einerseits...besonders aber, sowohl.... als besonders
+      - 
+        - cum...tum
+    - 
+      - 
+        - + Formen
+        - zusammenbrechen, niederstürzen
+      - 
+        - concidere, concido, concidi
+    - 
+      - 
+        - + Formen
+        - (sich) flüchten
+      - 
+        - confugere, confugio, confugi
+    - 
+      - 
+        - + Formen
+        - öffnen, aufdecken
+      - 
+        - patefacere, patefacio, patefeci, patefactum
+  11: 
+    - 
+      - 
+        - die Königin
+      - 
+        - regina
+    - 
+      - 
+        - die Weisheit, Einsicht
+      - 
+        - sapientia
+    - 
+      - 
+        - neu, neuartig
+      - 
+        - novus
+        - novus,a,um
+    - 
+      - 
+        - hell, klar, berühmt
+      - 
+        - clarus
+        - clarus,a,um
+    - 
+      - 
+        - glänzend, herrlich, vortreffilich
+      - 
+        - praeclarus
+        - praeclarus,a,um
+    - 
+      - 
+        - fest, stark
+      - 
+        - firmus
+        - firmus,a,um
+    - 
+      - 
+        - hoch, tief
+      - 
+        - altus
+        - altus,alta,altum
+    - 
+      - 
+        - groß, bedeutend, wichtig*
+      - 
+        - magnus
+        - magnus,a,um
+    - 
+      - 
+        - gerecht, richtig
+      - 
+        - iustus
+        - iustus,a,um
+    - 
+      - 
+        - hochmütig, stolz, erhaben
+      - 
+        - superbus
+        - superbus,a,um
+    - 
+      - 
+        - gut, tüchtig
+      - 
+        - bonus
+        - bonus,a,um
+    - 
+      - 
+        - schlecht, schlimm, böse
+      - 
+        - malus
+        - malus,a,um
+    - 
+      - 
+        - alle
+      - 
+        - cuncti
+        - cunti,ae,a
+    - 
+      - 
+        - viele
+      - 
+        - multi
+        - multi,ae,a
+    - 
+      - 
+        - der oberste, höchste
+      - 
+        - summus
+        - summus,a,um
+    - 
+      - 
+        - bekannt
+      - 
+        - notus
+        - notus,a,um
+    - 
+      - 
+        - römisch
+      - 
+        - Romanus
+        - Romanus,a,um
+    - 
+      - 
+        - das Kapitol
+      - 
+        - Capitolium
+    - 
+      - 
+        - die (An-)Zahl
+      - 
+        - nummerus
+    - 
+      - 
+        - der Fels, Steinblock
+      - 
+        - saxum
+    - 
+      - 
+        - der Eifer, die Beschäftigung
+      - 
+        - studium
+    - 
+      - 
+        - wunderbar, sonderbar
+      - 
+        - mirus
+        - mirus,a,um
+    - 
+      - 
+        - klein, gering
+      - 
+        - parvus
+        - parvus,a,um
+    - 
+      - 
+        - wild, roh
+      - 
+        - ferus
+        - ferus,a,um
+    - 
+      - 
+        - ermüdet, erschöpft, müde
+      - 
+        - fessus
+        - fessus,a,um
+    - 
+      - 
+        - der erste
+      - 
+        - primus
+        - primus,a,um
+    - 
+      - 
+        - ewig
+      - 
+        - aeternus
+        - aeternus,a,um
+    - 
+      - 
+        - golden
+      - 
+        - aureus
+        - aureus,a,um
+    - 
+      - 
+        - alt(ertümlich)
+      - 
+        - antiquus
+        - antiquus,a,um
+    - 
+      - 
+        - nämlich
+      - 
+        - enim
+    - 
+      - 
+        - einst
+      - 
+        - olim
+    - 
+      - 
+        - die Gallier
+      - 
+        - Galli
+    - 
+      - 
+        - Manlius
+      - 
+        - Manlius
+  12: 
+    - 
+      - 
+        - zu (...hin), an, bei
+      - 
+        - ad
+    - 
+      - 
+        - zum Dorf hin
+      - 
+        - ad vicum
+    - 
+      - 
+        - beim (am) Fluß
+      - 
+        - ad fluvium
+    - 
+      - 
+        - vor
+      - 
+        - ante
+    - 
+      - 
+        - vor der Villa
+      - 
+        - ante villam
+    - 
+      - 
+        - vor der Mahlzeit
+      - 
+        - ante cenam
+    - 
+      - 
+        - hinter, nach
+      - 
+        - post
+    - 
+      - 
+        - hinter dem Landhaus
+      - 
+        - post villam
+    - 
+      - 
+        - nach dem Essen
+      - 
+        - post cenam
+    - 
+      - 
+        - neben
+      - 
+        - iuxta
+    - 
+      - 
+        - neben der Mauer
+      - 
+        - iuxta murum
+    - 
+      - 
+        - innerhalb
+      - 
+        - intra
+    - 
+      - 
+        - innerhalb der Mauern
+      - 
+        - intra muros
+    - 
+      - 
+        - innerhalb vieler Stunden
+      - 
+        - intra multas horas
+        - intra horasmultas
+    - 
+      - 
+        - außerhalb
+      - 
+        - extra
+    - 
+      - 
+        - außerhalb der Mauern
+      - 
+        - extra muros
+    - 
+      - 
+        - wegen
+      - 
+        - propter
+    - 
+      - 
+        - wegen des Ruhms
+      - 
+        - propter gloriam
+    - 
+      - 
+        - (hin)durch
+      - 
+        - per
+    - 
+      - 
+        - durch das Wasser
+      - 
+        - per aquam
+    - 
+      - 
+        - durch viele Stunden hindurch
+      - 
+        - per multas horas
+    - 
+      - 
+        - von, von-her, von-an
+      - 
+        - ab
+        - a
+        - ab, a
+        - ab,a
+    - 
+      - 
+        - von Italien her
+      - 
+        - ab Italia
+    - 
+      - 
+        - von Kindheit an
+      - 
+        - a pueris
+    - 
+      - 
+        - aus, von-aus
+      - 
+        - ex
+        - e
+        - ex,e
+        - ex, e
+    - 
+      - 
+        - aus dem Gebäude heraus
+      - 
+        - ex aedificio
+    - 
+      - 
+        - aus dem Landhaus heraus
+      - 
+        - e villa
+    - 
+      - 
+        - von-herab, von, über
+      - 
+        - de
+    - 
+      - 
+        - von der Mauer herab
+      - 
+        - de muro
+    - 
+      - 
+        - von einem Spiel erzählen
+      - 
+        - de ludo narrare
+    - 
+      - 
+        - ohne
+      - 
+        - sine
+    - 
+      - 
+        - mit (Präposition)
+      - 
+        - cum
+    - 
+      - 
+        - ohne Freunde
+      - 
+        - sine amicis
+    - 
+      - 
+        - mit Freunden
+      - 
+        - cum amicis
+    - 
+      - 
+        - der Weg, die Straße
+      - 
+        - via
+    - 
+      - 
+        - das Tor, die Tür, Pforte
+      - 
+        - porta
+    - 
+      - 
+        - der Rücken
+      - 
+        - tergum
+    - 
+      - 
+        - das Getreide
+      - 
+        - frumentum
+    - 
+      - 
+        - das Denkmal, Grabmal
+      - 
+        - monumentum
+    - 
+      - 
+        - ein anderer
+      - 
+        - alius
+        - alius,a,ud
+    - 
+      - 
+        - die Appische Straße
+      - 
+        - via Appia
+    - 
+      - 
+        - der Aufschub, die Verzögerung
+      - 
+        - mora
+    - 
+      - 
+        - breit, ausgedehnt
+      - 
+        - latus
+        - latus,a,um
+    - 
+      - 
+        - benachbart, nahe (Sub. Nachbar)
+      - 
+        - vicinus
+        - vicinus,a,um
+    - 
+      - 
+        - zurückkehren
+      - 
+        - remeare
+    - 
+      - 
+        - herbeirufen
+      - 
+        - advocare
+    - 
+      - 
+        - anwesend sein, beistehen, helfen
+      - 
+        - adesse
+    - 
+      - 
+        - ich helfe
+      - 
+        - adsum
+    - 
+      - 
+        - abwesend sein, entfernt sein
+      - 
+        - abesse
+    - 
+      - 
+        - ich bin abwesend
+      - 
+        - absum
+    - 
+      - 
+        - kaum, mit Mühe
+      - 
+        - vix
+    - 
+      - 
+        - in Kürze, bald
+      - 
+        - brevi
+    - 
+      - 
+        - Rimini
+      - 
+        - Ariminum
+    - 
+      - 
+        - in, an, auf
+      - 
+        - in
+    - 
+      - 
+        - unter
+      - 
+        - sub
+  13: 
+    - 
+      - 
+        - das Schicksal, Glück
+      - 
+        - fortuna
+    - 
+      - 
+        - das Leben
+      - 
+        - vita
+    - 
+      - 
+        - die Küste
+      - 
+        - ora
+    - 
+      - 
+        - das Jahr
+      - 
+        - annus
+    - 
+      - 
+        - der Knabe, das Kind (mit Genitiv!!!)
+      - 
+        - puer, pueri
+    - 
+      - 
+        - die Kinder (mit Genitiv!!!)
+      - 
+        - liberi, liberorum
+    - 
+      - 
+        - der Mann (mit Genitiv!!!)
+      - 
+        - vir, viri
+    - 
+      - 
+        - froh, fröhlich
+      - 
+        - laetus
+        - laetus,a,um
+    - 
+      - 
+        - die Träne
+      - 
+        - lacrima
+    - 
+      - 
+        - das Band, die Fessel
+      - 
+        - vinculum
+    - 
+      - 
+        - die Gefahr
+      - 
+        - periculum
+    - 
+      - 
+        - das Buch (+Genitiv!!!)
+      - 
+        - liber, libri
+    - 
+      - 
+        - der Handwerker, Arbeiter (+Genitiv!!!)
+      - 
+        - faber, fabri
+    - 
+      - 
+        - der Acker, das Feld (+Genitiv!!!)
+      - 
+        - ager, agri
+    - 
+      - 
+        - der Lehrer, Meister (+Genitiv!!!)
+      - 
+        - magister, magistri
+    - 
+      - 
+        - der Diener, Helfer (+Genitiv!!!)
+      - 
+        - minister, ministri
+    - 
+      - 
+        - ein(er), ein einziger
+      - 
+        - unus
+        - unus,a,um
+    - 
+      - 
+        - fremd, abgeneigt
+      - 
+        - alienus
+        - alienus,a,um
+    - 
+      - 
+        - elend, unglücklich
+      - 
+        - miser
+    - 
+      - 
+        - zart, jung
+      - 
+        - tener
+    - 
+      - 
+        - rauh, schroff
+      - 
+        - asper
+    - 
+      - 
+        - frei
+      - 
+        - liber
+    - 
+      - 
+        - nie(mals)
+      - 
+        - numquam
+    - 
+      - 
+        - vor allem, besonders
+      - 
+        - imprimis
+    - 
+      - 
+        - zahlreich, häufig
+      - 
+        - creber
+    - 
+      - 
+        - krank
+      - 
+        - aeger
+    - 
+      - 
+        - schön
+      - 
+        - pulcher
+    - 
+      - 
+        - unberührt, rein, untadelig
+      - 
+        - integer
+    - 
+      - 
+        - recht(s)
+      - 
+        - dexter
+        - dexter
+    - 
+      - 
+        - link(s)
+      - 
+        - sinister
+    - 
+      - 
+        - umgeben
+      - 
+        - circumdare
+  14: 
+    - 
+      - 
+        - der Schiffer, Seemann
+      - 
+        - nauta
+    - 
+      - 
+        - der Dichter
+      - 
+        - poeta
+    - 
+      - 
+        - der Wein
+      - 
+        - vinum
+    - 
+      - 
+        - niemand
+      - 
+        - nemo
+    - 
+      - 
+        - singen
+      - 
+        - cantare
+    - 
+      - 
+        - im Wege stehen, hindern
+      - 
+        - obstare
+    - 
+      - 
+        - die Habgier, der Geiz
+      - 
+        - avaritia
+    - 
+      - 
+        - der Hinterhalt, Überfall, Anschlag
+      - 
+        - insidiae
+    - 
+      - 
+        - der Reichtum, die Schätze
+      - 
+        - divitiae
+    - 
+      - 
+        - die Muße, Freizeit, Ruhe
+      - 
+        - otium
+    - 
+      - 
+        - das Geschäft, die Aufgabe
+      - 
+        - negotium
+    - 
+      - 
+        - unterstüzen, helfen
+      - 
+        - adiuvare
+        - iuvare
+    - 
+      - 
+        - manchmal, bissweienl
+      - 
+        - interdum
+        - nonnumquam
+    - 
+      - 
+        - und
+      - 
+        - -que
+        - et
+    - 
+      - 
+        - griechisch
+      - 
+        - Graecus
+        - Graeca
+        - Graecum
+    - 
+      - 
+        - die Germanen
+      - 
+        - Germani
+    - 
+      - 
+        - die Waffen
+      - 
+        - arma
+    - 
+      - 
+        - das (Feld-)Lager
+      - 
+        - castra
+    - 
+      - 
+        - irrig, falsch
+      - 
+        - falsus
+        - falsa
+        - falsum
+    - 
+      - 
+        - sich (Dat.)
+      - 
+        - sibi
+    - 
+      - 
+        - befrieden, unterwerfen
+      - 
+        - pacare
+    - 
+      - 
+        - mehr
+      - 
+        - magis
+    - 
+      - 
+        - mehr...als
+      - 
+        - magis...quam
+        - magis quam
+    - 
+      - 
+        - ich helfe dir
+      - 
+        - adiuvo te
+        - iuvo te
+  15: 
+    - 
+      - 
+        - die Betreibsamkeit, der Fleiß
+      - 
+        - industria
+    - 
+      - 
+        - das Gedächtnis, Andenken
+      - 
+        - memoria
+    - 
+      - 
+        - der Gefährte, Bundesgenosse
+      - 
+        - socius
+    - 
+      - 
+        - der Haß
+      - 
+        - odium
+    - 
+      - 
+        - zweifelhaft, unsicher
+      - 
+        - dubius
+        - dubius,a,um
+    - 
+      - 
+        - verneienen, leugnen
+      - 
+        - negare
+    - 
+      - 
+        - (be)denken
+      - 
+        - cogitare
+    - 
+      - 
+        - hoffen, erwarten
+      - 
+        - sperare
+    - 
+      - 
+        - fordern
+      - 
+        - postulare
+    - 
+      - 
+        - nur, bloß
+      - 
+        - tantum
+    - 
+      - 
+        - so (bei Adj)
+      - 
+        - tam
+    - 
+      - 
+        - so...wie
+      - 
+        - tam...quam
+        - tam quam
+    - 
+      - 
+        - wie (beim Ausruf)
+      - 
+        - quam
+    - 
+      - 
+        - die Griechen
+      - 
+        - Graeci
+    - 
+      - 
+        - Greichenland
+      - 
+        - Graecia
+  16: 
+    - 
+      - 
+        - die Arbeit, Mühe
+      - 
+        - opera
+    - 
+      - 
+        - der Dienst, die Pflicht
+      - 
+        - officium
+    - 
+      - 
+        - untätig, träg, faul
+      - 
+        - ignavus
+        - ignavus,a,um
+    - 
+      - 
+        - notwendig
+      - 
+        - necessarius
+        - necessarius,a,um
+    - 
+      - 
+        - sicher, gewiss, zuverlässig
+      - 
+        - certus
+        - certus,a,um
+    - 
+      - 
+        - treu, zuverlässig
+      - 
+        - fidus
+        - fidus,a,um
+    - 
+      - 
+        - pflichtbewusst, fromm, rechtsschaffen
+      - 
+        - pius
+        - pius,a,um
+    - 
+      - 
+        - angenehm, dankbar
+      - 
+        - gratus
+        - gratus,a,um
+    - 
+      - 
+        - fehlen, mangeln
+      - 
+        - deesse
+    - 
+      - 
+        - teilnehmen
+      - 
+        - interesse
+    - 
+      - 
+        - und nicht, auch nicht
+      - 
+        - neque
+    - 
+      - 
+        - weder...noch
+      - 
+        - neque neque
+        - neque...neque
+    - 
+      - 
+        - befreundet (+Dat.)
+      - 
+        - amicus
+        - amicus,a,um
+    - 
+      - 
+        - gottlos, fevelhaft
+      - 
+        - impius
+        - impius,a,um
+    - 
+      - 
+        - sicher, geschütz
+      - 
+        - tutus
+        - tutus,a,um
+    - 
+      - 
+        - glücklich
+      - 
+        - beatus
+        - beatus,a,um
+    - 
+      - 
+        - die übrigen
+      - 
+        - ceteri
+        - ceteri,ae,a
+    - 
+      - 
+        - fortfahren
+      - 
+        - perseverare
+    - 
+      - 
+        - schaden
+      - 
+        - nocere
+    - 
+      - 
+        - ein wenig
+      - 
+        - paulum
+  17: 
+    - 
+      - 
+        - der Sold
+      - 
+        - stipendium
+    - 
+      - 
+        - streng, ernst
+      - 
+        - severus
+        - severus,a,um
+    - 
+      - 
+        - hart, harthärzig
+      - 
+        - durus
+        - durus,a,um
+    - 
+      - 
+        - habsüchtig, geizig
+      - 
+        - avarus
+        - avarus,a,um
+    - 
+      - 
+        - ungerecht
+      - 
+        - iniustus
+        - iniustus,a,um
+    - 
+      - 
+        - ansprechen, nennen
+      - 
+        - appellare
+    - 
+      - 
+        - ereichen, durchsetzen
+      - 
+        - impetrare
+    - 
+      - 
+        - verdienen
+      - 
+        - merere
+    - 
+      - 
+        - abhalten, hindern
+      - 
+        - prohibere
+    - 
+      - 
+        - gegen (+Akk)
+      - 
+        - in
+    - 
+      - 
+        - bald
+      - 
+        - mox
+    - 
+      - 
+        - morgen
+      - 
+        - cras
+    - 
+      - 
+        - woher?
+      - 
+        - unde?
+        - unde
+    - 
+      - 
+        - auf Befehl
+      - 
+        - iussu
+    - 
+      - 
+        - auch (nachg.)
+      - 
+        - quoque
+    - 
+      - 
+        - germanisch
+      - 
+        - Germanicus
+        - Germanicus,a,um
+  18: 
+    - 
+      - 
+        - Hochzeit, Hochzeitsfeierlichkeiten
+      - 
+        - nuptiae -arum
+        - nuptiae
+    - 
+      - 
+        - die Not, der Mangel
+      - 
+        - inopia
+    - 
+      - 
+        - die Zwietricht, Uneinigkeit
+      - 
+        - discordia
+    - 
+      - 
+        - die Vogelschau, das Vorzeichen
+      - 
+        - auspicium
+    - 
+      - 
+        - das Gelübde, Gebet
+      - 
+        - votum
+    - 
+      - 
+        - benachbart, nahe, verwand
+      - 
+        - propinquus
+        - propinquus,a,um
+    - 
+      - 
+        - bereit, entschlossen
+      - 
+        - paratus,a,um
+        - paratus
+    - 
+      - 
+        - besuchen, feiern
+      - 
+        - celebrare
+    - 
+      - 
+        - zusammenrufen
+      - 
+        - convocare
+    - 
+      - 
+        - zwischen, während
+      - 
+        - inter
+    - 
+      - 
+        - weil
+      - 
+        - quia
+        - quod
+    - 
+      - 
+        - (immer) wenn
+      - 
+        - cum
+    - 
+      - 
+        - obwohl
+      - 
+        - quamquam
+    - 
+      - 
+        - wann?
+      - 
+        - quando
+        - quando?
+    - 
+      - 
+        - in der Frühe, morgens
+      - 
+        - mane
+  19: 
+    - 
+      - 
+        - das Gewand
+      - 
+        - toga
+    - 
+      - 
+        - die Krankheit
+      - 
+        - morbus
+    - 
+      - 
+        - (zu)künftig
+      - 
+        - futurus
+        - futurus,a,um
+    - 
+      - 
+        - ändern, wechseln, (ver)tauschen
+      - 
+        - mutare
+    - 
+      - 
+        - zählen
+      - 
+        - numerare
+    - 
+      - 
+        - wünschen
+      - 
+        - optare
+    - 
+      - 
+        - doch (in Wunschsätzen)
+      - 
+        - utinam
+    - 
+      - 
+        - dass, damit
+      - 
+        - ut
+    - 
+      - 
+        - 1. nicht      2. daß nicht, damit nicht
+      - 
+        - ne
+    - 
+      - 
+        - dann, dannach
+      - 
+        - deinde
+  20: 
+    - 
+      - 
+        - die Bude, der Laden, das Wirtshaus
+      - 
+        - taberna
+    - 
+      - 
+        - das Gefecht, die Schlacht
+      - 
+        - proelium
+    - 
+      - 
+        - zufrieden
+      - 
+        - contentus
+        - contentus,a,um
+    - 
+      - 
+        - leer, frei
+      - 
+        - vacuus
+        - vacuus,a,um
+    - 
+      - 
+        - erfreulich, angenehm
+      - 
+        - iucundus
+        - iucundus,a,um
+    - 
+      - 
+        - spazierengehen
+      - 
+        - ambulare
+    - 
+      - 
+        - bleiben
+      - 
+        - manere
+    - 
+      - 
+        - vorgesetzt sein, leiten, kommandieren
+      - 
+        - praeesse
+    - 
+      - 
+        - lange, lange Zeit
+      - 
+        - diu
+    - 
+      - 
+        - Italien
+      - 
+        - Italia
+    - 
+      - 
+        - hm!
+      - 
+        - hem!
+  21: 
+    - 
+      - 
+        - der Tag m
+      - 
+        - dies
+    - 
+      - 
+        - der Mittag, Süden M
+      - 
+        - meridies
+    - 
+      - 
+        - die Schärfe, Schlacht, Kampflinie
+      - 
+        - acies
+    - 
+      - 
+        - das Verderben, der Untergang
+      - 
+        - pernicies
+    - 
+      - 
+        - die Hoffnung
+      - 
+        - spes
+    - 
+      - 
+        - die Sache, das Ding, die Angelegenheit
+      - 
+        - res
+    - 
+      - 
+        - die Treue, der Glaube
+      - 
+        - fides
+    - 
+      - 
+        - feierlich, festlich
+      - 
+        - festus
+        - festus,a,um
+    - 
+      - 
+        - unbekannt
+      - 
+        - ignotus
+        - ignotus,a,um
+    - 
+      - 
+        - 1. während; 2. solange (als)
+      - 
+        - dum
+    - 
+      - 
+        - die Gerechtigkeit
+      - 
+        - iustitia
+    - 
+      - 
+        - öffentlich, staatlich
+      - 
+        - publicus
+        - publicus,a,um
+    - 
+      - 
+        - der Staat
+      - 
+        - res publica
+    - 
+      - 
+        - widrig, ungünstig
+      - 
+        - adversus
+        - adversus,a,um
+    - 
+      - 
+        - die ungünstigen Dinge, das Unglück
+      - 
+        - res adversae
+    - 
+      - 
+        - die Günstigen Dinge, das Glück
+      - 
+        - res secundae
+    - 
+      - 
+        - der Römische Staat
+      - 
+        - res Romanae
+    - 
+      - 
+        - die zukünftigen Dinge, das zukünftige
+      - 
+        - res futurae
+    - 
+      - 
+        - der beste, sehr gut
+      - 
+        - optimus
+        - optimus,a,um
+    - 
+      - 
+        - der größte, sehr groß
+      - 
+        - maximus
+        - maximus,a,um
+    - 
+      - 
+        - opfern
+      - 
+        - sacrificare
+    - 
+      - 
+        - und (dazu)
+      - 
+        - atque
+        - ac
+    - 
+      - 
+        - sowohl...als auch
+      - 
+        - et et
+        - et...et
+    - 
+      - 
+        - gut (adverb)
+      - 
+        - bene
+    - 
+      - 
+        - Kolosseum
+      - 
+        - Colosseum
+    - 
+      - 
+        - der zweite, günstig
+      - 
+        - secundus
+  22: 
+    - 
+      - 
+        - das Ufer
+      - 
+        - ripa
+    - 
+      - 
+        - die Zunge, Sprache
+      - 
+        - lingua
+    - 
+      - 
+        - der Ältestenrat (u-Dekl)
+      - 
+        - senatus
+    - 
+      - 
+        - der Beamte, das Amt (u-Dekl.)
+      - 
+        - magistratus
+    - 
+      - 
+        - das Heer (u-Dekl.)
+      - 
+        - exercitus
+    - 
+      - 
+        - der Ansturm, Angriff, Drang (u-Dekl.)
+      - 
+        - impetus
+    - 
+      - 
+        - die Furcht  (u-Dekl.)
+      - 
+        - metus
+    - 
+      - 
+        - der Aufruhr, die Unruhe (u-Dekl.)
+      - 
+        - tumultus
+    - 
+      - 
+        - der Gebrauch, Nutzen, Übung (u-Dekl.)
+      - 
+        - usus
+    - 
+      - 
+        - die meisten
+      - 
+        - plerique
+        - pleraeque
+        - pleraque
+    - 
+      - 
+        - verwalten, verrichten
+      - 
+        - administrare
+    - 
+      - 
+        - 1. als, nachdem ; 2. da, weil
+      - 
+        - cum
+    - 
+      - 
+        - beinahe, fast, ungefähr
+      - 
+        - fere
+    - 
+      - 
+        - Kleinasien
+      - 
+        - Asia
+    - 
+      - 
+        - Britannien
+      - 
+        - Britannia
+    - 
+      - 
+        - lateinisch
+      - 
+        - Latinus
+        - Latinus,a,um
+    - 
+      - 
+        - die Wohltat, Vergünstigung
+      - 
+        - beneficium
+    - 
+      - 
+        - die Freude
+      - 
+        - gaudium
+        - laetitia
+    - 
+      - 
+        - die Pflege, Verehrung, Lebensweise
+      - 
+        - cultus
+    - 
+      - 
+        - der Lebensunterhat, die Lebenweise (U-Dekl.)
+      - 
+        - victus
+    - 
+      - 
+        - der Vers (U-Dekl.)
+      - 
+        - versus
+    - 
+      - 
+        - der Anblick (U-Dekl.)
+      - 
+        - conspectus
+    - 
+      - 
+        - wahr(haftig)
+      - 
+        - verus.a.um
+        - verus
+    - 
+      - 
+        - kein
+      - 
+        - nullus,a,um
+        - nullus
+    - 
+      - 
+        - gewinnen
+      - 
+        - concilare
+    - 
+      - 
+        - verwirren, stören
+      - 
+        - perturbare
+        - turbare
+    - 
+      - 
+        - die Spanier
+      - 
+        - Hispani
+  23: 
+    - 
+      - 
+        - das Horn
+      - 
+        - cornu
+    - 
+      - 
+        - die Hitze, Brandung
+      - 
+        - aestus
+    - 
+      - 
+        - der See, das Wasserbecken
+      - 
+        - lacus
+    - 
+      - 
+        - der Stier
+      - 
+        - taurus
+    - 
+      - 
+        - das Beispiel, Vorbild
+      - 
+        - exemplum
+    - 
+      - 
+        - weit, geräumig, bedeutend
+      - 
+        - amplus
+    - 
+      - 
+        - persönlich, privat
+      - 
+        - privatus
+    - 
+      - 
+        - lang
+      - 
+        - longus
+    - 
+      - 
+        - (be)wohnen
+      - 
+        - habitare
+    - 
+      - 
+        - for, für, an Stelle
+      - 
+        - pro
+    - 
+      - 
+        - überall
+      - 
+        - ubique
+  24: 
+    - 
+      - 
+        - der Wald
+      - 
+        - silva
+    - 
+      - 
+        - das Theater
+      - 
+        - theatrum
+    - 
+      - 
+        - das Amphitheater
+      - 
+        - amphi-theatrum
+    - 
+      - 
+        - der Bogen
+      - 
+        - arcus
+    - 
+      - 
+        - Hafen
+      - 
+        - portus
+    - 
+      - 
+        - wenige
+      - 
+        - pauci
+    - 
+      - 
+        - menschlich, gebildet
+      - 
+        - humanus
+    - 
+      - 
+        - (aus)wandern
+      - 
+        - migrare
+    - 
+      - 
+        - aufstellen, errichten
+      - 
+        - collocare
+    - 
+      - 
+        - erneuern
+      - 
+        - renovare
+    - 
+      - 
+        - schließlich, endlich
+      - 
+        - denique
+    - 
+      - 
+        - bis zu
+      - 
+        - usque ad
+    - 
+      - 
+        - vorher, früher
+      - 
+        - antea
+  25: 
+    - 
+      - 
+        - das Unrecht, Beleidigung
+      - 
+        - iniuria
+    - 
+      - 
+        - die Strafe
+      - 
+        - poena
+    - 
+      - 
+        - der Wolf
+      - 
+        - lupus
+    - 
+      - 
+        - der Herbst
+      - 
+        - autumnus
+    - 
+      - 
+        - das Maß, die Art und Weiße
+      - 
+        - modus
+    - 
+      - 
+        - der nächste, letzte
+      - 
+        - proximus
+    - 
+      - 
+        - würdig, wert
+      - 
+        - dignus
+    - 
+      - 
+        - fließen
+      - 
+        - manare
+    - 
+      - 
+        - anklagen, beschuldigen
+      - 
+        - accusare
+    - 
+      - 
+        - mißhandeln, verletzen
+      - 
+        - violare
+    - 
+      - 
+        - er, sie, es (hat) (ge)sagt
+      - 
+        - inquit
+    - 
+      - 
+        - so groß
+      - 
+        - tantus
+    - 
+      - 
+        - "feindlich; Subst: Fein"
+      - 
+        - inimicus
+    - 
+      - 
+        - geboren
+      - 
+        - natus
+    - 
+      - 
+        - noch nicht
+      - 
+        - nondum
+    - 
+      - 
+        - einst, einmal
+      - 
+        - quondam
+  26: 
+    - 
+      - 
+        - die Anlage, Begabung
+      - 
+        - ingenium
+    - 
+      - 
+        - das Ungeheuer
+      - 
+        - monstrum
+    - 
+      - 
+        - der Lohn, die Belohnung
+      - 
+        - praemium
+    - 
+      - 
+        - wie groß
+      - 
+        - quantus
+    - 
+      - 
+        - häßlich, schändlich
+      - 
+        - foedus
+    - 
+      - 
+        - "doppelt; Subs: Zwilling"
+      - 
+        - geminus
+    - 
+      - 
+        - voranstehen, übertreffen (mit Dat)
+      - 
+        - praestare
+    - 
+      - 
+        - leisten, erweisen (mit Akk)
+      - 
+        - praestare
+    - 
+      - 
+        - es ist besser (+Inf)
+      - 
+        - praestat
+    - 
+      - 
+        - wirklich, in der Tat
+      - 
+        - profecto
+    - 
+      - 
+        - gestern
+      - 
+        - heri
+    - 
+      - 
+        - Kreta
+      - 
+        - Creta
+    - 
+      - 
+        - die Welle, Woge
+      - 
+        - unda
+    - 
+      - 
+        - der Himmel, das Klima
+      - 
+        - caelum
+    - 
+      - 
+        - die Knechtschaft, Sklaverei
+      - 
+        - servitium
+    - 
+      - 
+        - die Rückkehr
+      - 
+        - reditus
+    - 
+      - 
+        - gestorben, tot
+      - 
+        - mortuus
+    - 
+      - 
+        - übrigbleiben
+      - 
+        - restare
+    - 
+      - 
+        - erleichtern, lindern, heben
+      - 
+        - levare
+    - 
+      - 
+        - offenstehen
+      - 
+        - patere
+    - 
+      - 
+        - wenn auch, obgleich
+      - 
+        - etsi
+        - etiamsi
+    - 
+      - 
+        - jedoch, dagegen
+      - 
+        - at
+    - 
+      - 
+        - übrigens, doch
+      - 
+        - ceterum
+  27: 
+    - 
+      - 
+        - der Trubel, die Menge
+      - 
+        - turba
+    - 
+      - 
+        - die Kurie (Versammlungsort des Senats)
+      - 
+        - curia
+    - 
+      - 
+        - der Angeklagte
+      - 
+        - reus
+    - 
+      - 
+        - das Urteil, Gericht
+      - 
+        - iudicium
+    - 
+      - 
+        - der Konsul
+      - 
+        - consul
+    - 
+      - 
+        - die Sonne
+      - 
+        - sol
+    - 
+      - 
+        - der Prätor
+      - 
+        - praetor
+    - 
+      - 
+        - der Redner
+      - 
+        - orator
+    - 
+      - 
+        - der Lictor
+      - 
+        - lictor
+    - 
+      - 
+        - die Frau f
+      - 
+        - mulier
+    - 
+      - 
+        - Mutter f
+      - 
+        - mater
+    - 
+      - 
+        - Vater
+      - 
+        - pater
+    - 
+      - 
+        - Bruder
+      - 
+        - frater
+    - 
+      - 
+        - der Feldherr, Keiser
+      - 
+        - imperator
+    - 
+      - 
+        - der Sieger
+      - 
+        - victor
+    - 
+      - 
+        - der Senator
+      - 
+        - senator
+    - 
+      - 
+        - der Urheber, Begründer, Autor
+      - 
+        - auctor
+    - 
+      - 
+        - das Geschrei
+      - 
+        - clamor
+    - 
+      - 
+        - die Sitte, der Brauch
+      - 
+        - mos
+    - 
+      - 
+        - die Sitten
+      - 
+        - mores
+    - 
+      - 
+        - die Ehre, das Ehrenamt
+      - 
+        - honos
+    - 
+      - 
+        - der Mund, das Gesicht n
+      - 
+        - os
+    - 
+      - 
+        - herumstehen, umringen
+      - 
+        - circumstare
+    - 
+      - 
+        - streiten, wetteifern
+      - 
+        - certare
+    - 
+      - 
+        - urteilen, beurteilen
+      - 
+        - iudicare
+    - 
+      - 
+        - genug
+      - 
+        - satis
+    - 
+      - 
+        - der Schrecken
+      - 
+        - terror
+    - 
+      - 
+        - die Arbeit, Anstrengung, Mühe
+      - 
+        - labor
+    - 
+      - 
+        - die Vorfahren
+      - 
+        - maiores
+    - 
+      - 
+        - die Meeresfläche, das Meer n
+      - 
+        - aequor
+    - 
+      - 
+        - weit, wüste, öde
+      - 
+        - vastus
+    - 
+      - 
+        - zu Schiff fahren, segeln
+      - 
+        - navigare
+    - 
+      - 
+        - bei (+Akk)
+      - 
+        - apud
+    - 
+      - 
+        - Sallust
+      - 
+        - Sallustius
+  28: 
+    - 
+      - 
+        - Hals
+      - 
+        - collum
+    - 
+      - 
+        - der Kaufmann m
+      - 
+        - mercator
+    - 
+      - 
+        - die Berechnung, Vernunft, Grund, Art und Weiße
+      - 
+        - ratio
+    - 
+      - 
+        - Legion
+      - 
+        - legio
+    - 
+      - 
+        - Volk(sstamm)
+      - 
+        - natio
+    - 
+      - 
+        - das Bild
+      - 
+        - imago
+    - 
+      - 
+        - die Reihe, Ordnung, Stand m
+      - 
+        - ordo
+    - 
+      - 
+        - gerade, recht, richtig
+      - 
+        - rectus
+    - 
+      - 
+        - der Mensch
+      - 
+        - homo
+    - 
+      - 
+        - ertragen, dulden
+      - 
+        - tolerare
+    - 
+      - 
+        - prüfen, billigen
+      - 
+        - probare
+    - 
+      - 
+        - wie, auf welche Weiße
+      - 
+        - quomodo
+    - 
+      - 
+        - die Lage, Bedingung
+      - 
+        - condicio
+    - 
+      - 
+        - Richtung, Gegend
+      - 
+        - regio
+    - 
+      - 
+        - die Ehrfurch, Götterehrfurcht
+      - 
+        - religio
+    - 
+      - 
+        - die (Allein-)Herrschaft
+      - 
+        - dominatio
+    - 
+      - 
+        - Rede
+      - 
+        - oratio
+    - 
+      - 
+        - der Aufstand
+      - 
+        - seditio
+    - 
+      - 
+        - die Meinung, Vernunft
+      - 
+        - opinio
+    - 
+      - 
+        - das Gesräch, Sprache m
+      - 
+        - sermo
+    - 
+      - 
+        - Löwe m
+      - 
+        - leo
+    - 
+      - 
+        - ungewiß, unsicher
+      - 
+        - incertus
+    - 
+      - 
+        - einige
+      - 
+        - nonnulli
+    - 
+      - 
+        - gegen
+      - 
+        - contra
+    - 
+      - 
+        - Plinius
+      - 
+        - Plinius
+  29: 
+    - 
+      - 
+        - Ort, Platz
+      - 
+        - locus
+    - 
+      - 
+        - der Beschluss
+      - 
+        - consultum
+    - 
+      - 
+        - Zugang (u-Dekl)
+      - 
+        - aditus
+    - 
+      - 
+        - der Sommer
+      - 
+        - aestas
+    - 
+      - 
+        - das Lebenssalter, Zeitalter, Zeit
+      - 
+        - aetas
+    - 
+      - 
+        - die Bürgerstadt, der Staat
+      - 
+        - civitas
+    - 
+      - 
+        - die Würde
+      - 
+        - dignas
+    - 
+      - 
+        - das Ansehen, Einfluss
+      - 
+        - auctoritas
+    - 
+      - 
+        - die Macht, (Amts-)Gewalt
+      - 
+        - potestas
+    - 
+      - 
+        - lästig, beschwerlich
+      - 
+        - molestus
+    - 
+      - 
+        - alein, einsam
+      - 
+        - solus
+    - 
+      - 
+        - "patrizisch; Subst: Patrizier"
+      - 
+        - patricius
+    - 
+      - 
+        - blebejisch; Subst. Plebejer
+      - 
+        - plebeius
+    - 
+      - 
+        - senatorisch
+      - 
+        - senatorius
+    - 
+      - 
+        - oder
+      - 
+        - aut
+    - 
+      - 
+        - entweder...oder (2)
+      - 
+        - aut...aut
+        - aut aut
+    - 
+      - 
+        - das Unglück, Missgeschick
+      - 
+        - calamitas
+    - 
+      - 
+        - Pflichtbewusstsein, die Frömmigkeit, Ehrfurcht
+      - 
+        - pietas
+    - 
+      - 
+        - die Freiheit, Freiheitsliebe
+      - 
+        - libertas
+    - 
+      - 
+        - die Knechtschaft, Sklaverei (2)
+      - 
+        - servitius
+    - 
+      - 
+        - die Jugend
+      - 
+        - iuventus
+    - 
+      - 
+        - das (Geisen-)Alter
+      - 
+        - senectus
+    - 
+      - 
+        - das Wohlergehen, Heil, die Rettung
+      - 
+        - salus
+    - 
+      - 
+        - die Tüchtigkeit, Tapferkeit, Leistung, Vorzug
+      - 
+        - virus
+    - 
+      - 
+        - zeigen, beweisen
+      - 
+        - demonstrare
+    - 
+      - 
+        - verzweilfen
+      - 
+        - desperare
+    - 
+      - 
+        - meistens
+      - 
+        - plerumque
+    - 
+      - 
+        - anfangs, zuerst
+      - 
+        - primo
+  30: 
+    - 
+      - 
+        - der Wind
+      - 
+        - ventus
+    - 
+      - 
+        - Hauch, Atem
+      - 
+        - spiritus
+    - 
+      - 
+        - der Gast(freund), Gastgeber
+      - 
+        - hospes
+    - 
+      - 
+        - der reiter, Ritter
+      - 
+        - eques
+    - 
+      - 
+        - der Soldat
+      - 
+        - pedes
+    - 
+      - 
+        - der Soltat (nicht Fuß)
+      - 
+        - miles
+    - 
+      - 
+        - der Gefährte, Begleiter
+      - 
+        - comes
+    - 
+      - 
+        - die Ruhe, Erholung
+      - 
+        - quies
+    - 
+      - 
+        - der Lohn, Sold
+      - 
+        - merces
+    - 
+      - 
+        - der Fuß
+      - 
+        - pes
+    - 
+      - 
+        - der Wächter, Hüter
+      - 
+        - custos
+    - 
+      - 
+        - zweifeln, zögern
+      - 
+        - dubitare
+    - 
+      - 
+        - vergleichen
+      - 
+        - comparare
+    - 
+      - 
+        - beim Herkules
+      - 
+        - herucle
+        - hercle
+    - 
+      - 
+        - der Arm
+      - 
+        - bracchium
+    - 
+      - 
+        - der Baum
+      - 
+        - arbor
+    - 
+      - 
+        - die Begierde, Leidenschaft
+      - 
+        - cupiditas
+    - 
+      - 
+        - Lob, Ruhm
+      - 
+        - laus
+    - 
+      - 
+        - das Blut
+      - 
+        - sanguis
+    - 
+      - 
+        - ganz
+      - 
+        - totus
+    - 
+      - 
+        - schlagen, klopfen
+      - 
+        - pulsare
+    - 
+      - 
+        - überfließen, reich sein
+      - 
+        - abundare
+    - 
+      - 
+        - 7
+      - 
+        - septem
+    - 
+      - 
+        - solange als
+      - 
+        - donec
+    - 
+      - 
+        - Mars
+      - 
+        - Mars
+    - 
+      - 
+        - Indien
+      - 
+        - India
+    - 
+      - 
+        - Plautus
+      - 
+        - Plautus
+  31: 
+    - 
+      - 
+        - der Patron, Anwalt
+      - 
+        - patronus
+    - 
+      - 
+        - der Friede
+      - 
+        - pax
+    - 
+      - 
+        - das Gesetz
+      - 
+        - lex
+    - 
+      - 
+        - das (Tages)Licht
+      - 
+        - lux
+    - 
+      - 
+        - Stimme, Wort
+      - 
+        - vox
+    - 
+      - 
+        - Mord
+      - 
+        - nex
+    - 
+      - 
+        - der König
+      - 
+        - rex
+    - 
+      - 
+        - Richter
+      - 
+        - iudex
+    - 
+      - 
+        - der Greis, alter Mann
+      - 
+        - senex
+    - 
+      - 
+        - Ceres (Göttin des Ackerbaus)
+      - 
+        - Ceres
+    - 
+      - 
+        - Arzt
+      - 
+        - medicus
+    - 
+      - 
+        - Gift
+      - 
+        - venenum
+    - 
+      - 
+        - Aussehen, Gestallt, Schein
+      - 
+        - species
+    - 
+      - 
+        - das Befinden f
+      - 
+        - valetudo
+    - 
+      - 
+        - die Bitten
+      - 
+        - preces
+    - 
+      - 
+        - (Feld-)Früchte
+      - 
+        - fruges
+    - 
+      - 
+        - antreiben, aufregen, reizen
+      - 
+        - incitare
+    - 
+      - 
+        - verurteilen
+      - 
+        - damnare
+    - 
+      - 
+        - in Wahrheit
+      - 
+        - re vera
+    - 
+      - 
+        - außerdem
+      - 
+        - praeterea
+  32: 
+    - 
+      - 
+        - die Feindschaft
+      - 
+        - inimicitiae
+    - 
+      - 
+        - das Geschoß
+      - 
+        - telum
+    - 
+      - 
+        - das Heilmittel, Mittel
+      - 
+        - remedium
+    - 
+      - 
+        - das Zeugnis, Beweiß
+      - 
+        - testimonium
+    - 
+      - 
+        - die Frucht, Ertrag, Nutzen
+      - 
+        - fructus
+    - 
+      - 
+        - Gattin, Ehefrau
+      - 
+        - uxor
+    - 
+      - 
+        - voll
+      - 
+        - plenus
+    - 
+      - 
+        - heilig, geweiht
+      - 
+        - sacer
+    - 
+      - 
+        - (hin und her)werfen
+      - 
+        - iactare
+    - 
+      - 
+        - antworten
+      - 
+        - respondere
+    - 
+      - 
+        - drehen, foltern
+      - 
+        - torquere
+  33: 
+    - 
+      - 
+        - die Freundschafft
+      - 
+        - amicitiae
+    - 
+      - 
+        - Priester (m)
+      - 
+        - sacerdos
+    - 
+      - 
+        - (An-)Führer
+      - 
+        - dux
+    - 
+      - 
+        - das Sternbild, Gestirn
+      - 
+        - sidus
+    - 
+      - 
+        - Aufgabe, Amt, Geschenk
+      - 
+        - munus
+    - 
+      - 
+        - die Last, Ladung
+      - 
+        - onus
+    - 
+      - 
+        - Bündnis, Vertrag
+      - 
+        - foedus
+    - 
+      - 
+        - erörtern, diskutieren
+      - 
+        - disputare
+    - 
+      - 
+        - (be)stärken, (be)kräftigen
+      - 
+        - firmare
+    - 
+      - 
+        - Quaden (Volk nördlich der Donau)
+      - 
+        - Quadi
+    - 
+      - 
+        - Seite, Lanke
+      - 
+        - latus
+    - 
+      - 
+        - Verbrechen
+      - 
+        - scelus
+    - 
+      - 
+        - Geschlecht, Gattung, Art
+      - 
+        - genus
+    - 
+      - 
+        - Küste, Strand
+      - 
+        - litus
+    - 
+      - 
+        - Zeit, Lage
+      - 
+        - tempus
+    - 
+      - 
+        - Brust, das Innere
+      - 
+        - pectus
+    - 
+      - 
+        - ebenso
+      - 
+        - item
+    - 
+      - 
+        - Jupiter
+      - 
+        - Iuppiter
+  34: 
+    - 
+      - 
+        - Gold
+      - 
+        - aurum
+    - 
+      - 
+        - Silber, Geld
+      - 
+        - argentum
+    - 
+      - 
+        - Vieh, (Schafs)herde n
+      - 
+        - pecus
+    - 
+      - 
+        - Licht, Augenlicht
+      - 
+        - lumen
+    - 
+      - 
+        - der (Heeres)Zug, Schar
+      - 
+        - agmen
+    - 
+      - 
+        - der Fluss
+      - 
+        - flumen
+    - 
+      - 
+        - der Name
+      - 
+        - nomen
+    - 
+      - 
+        - die andere, die einen
+      - 
+        - alii alii
+        - alii...alii
+    - 
+      - 
+        - (er)nennen, benennen
+      - 
+        - nominare
+    - 
+      - 
+        - bis jetzt, immer noch
+      - 
+        - adhuc
+    - 
+      - 
+        - gallisch
+      - 
+        - Gallicus
+    - 
+      - 
+        - (Triumph-)Zug
+      - 
+        - triumphus
+    - 
+      - 
+        - der Wagen
+      - 
+        - currus
+    - 
+      - 
+        - die Bewunderung
+      - 
+        - admiratio
+    - 
+      - 
+        - Lied, Gedicht
+      - 
+        - carmen
+    - 
+      - 
+        - der (Wett-)Kampf
+      - 
+        - certamen
+    - 
+      - 
+        - weiß
+      - 
+        - albus
+    - 
+      - 
+        - (kriegs)gefangen
+      - 
+        - captivus
+    - 
+      - 
+        - von allen Seiten, von überall her
+      - 
+        - undique
+  35: 
+    - 
+      - 
+        - das Recht
+      - 
+        - ius
+    - 
+      - 
+        - der Frühling
+      - 
+        - ver
+    - 
+      - 
+        - das Haupt, Hauptsache, die Hauptstadt
+      - 
+        - caput
+    - 
+      - 
+        - das Gefäß
+      - 
+        - vas
+    - 
+      - 
+        - Milch
+      - 
+        - lac
+    - 
+      - 
+        - "der Knochen, PL: die Gebeine"
+      - 
+        - os
+    - 
+      - 
+        - das Herz (Muskel)
+      - 
+        - cor
+    - 
+      - 
+        - das (Stück)Vieh, das Schaf
+      - 
+        - pecus
+    - 
+      - 
+        - (be)treiben, verhandeln
+      - 
+        - agitare
+    - 
+      - 
+        - entflammen, entzünden, anfeuern
+      - 
+        - inflammare
+    - 
+      - 
+        - (um...)herum
+      - 
+        - circum
+        - circa
+    - 
+      - 
+        - Janus
+      - 
+        - Ianus
+    - 
+      - 
+        - Ceres
+      - 
+        - Ceres
+  36: 
+    - 
+      - 
+        - die Philosophie
+      - 
+        - philosophia
+    - 
+      - 
+        - der Philosoph
+      - 
+        - philosophus
+    - 
+      - 
+        - das Vergnügen, die Lust
+      - 
+        - voluptas
+    - 
+      - 
+        - der Wille, Absicht
+      - 
+        - voluntas
+    - 
+      - 
+        - der Regen(guß)
+      - 
+        - imber
+    - 
+      - 
+        - frisch, kräftig sein
+      - 
+        - vigere
+    - 
+      - 
+        - ich sage, du sagst, er/sie/es sagt
+      - 
+        - aio, ais, ait
+    - 
+      - 
+        - Cicero
+      - 
+        - Cicero
+  37: 
+    - 
+      - 
+        - die Üppigkeit, Genußsucht
+      - 
+        - luxuria
+    - 
+      - 
+        - Hochmut, Stolz
+      - 
+        - superbia
+    - 
+      - 
+        - das Zeichen, Feldzeichen, Bildnis
+      - 
+        - signum
+    - 
+      - 
+        - Voschrift, Lehre
+      - 
+        - praeceptum
+    - 
+      - 
+        - der Aufwand, Prunk, das Werkzeug
+      - 
+        - apparatus
+    - 
+      - 
+        - das Gastmahl, Gelage
+      - 
+        - convivium
+    - 
+      - 
+        - waschen
+      - 
+        - lavare
+    - 
+      - 
+        - formen, gestalten, bilden
+      - 
+        - formare
+    - 
+      - 
+        - darreichen, gewähren
+      - 
+        - praebere
+    - 
+      - 
+        - ja sogar
+      - 
+        - quin etiam
+    - 
+      - 
+        - unterdessen, inzwischen
+      - 
+        - interea
+  38: 
+    - 
+      - 
+        - (Erd-)Boden
+      - 
+        - solum
+    - 
+      - 
+        - die Wolke
+      - 
+        - nubes
+    - 
+      - 
+        - der (Wohn-)Sitz
+      - 
+        - sedes
+    - 
+      - 
+        - Schiff
+      - 
+        - navis
+    - 
+      - 
+        - die Flotte
+      - 
+        - classis
+    - 
+      - 
+        - das Tal
+      - 
+        - vallis
+    - 
+      - 
+        - (Kleid-)ung
+      - 
+        - vestis
+    - 
+      - 
+        - Ohr
+      - 
+        - auris
+    - 
+      - 
+        - der (Mit)Bürger m
+      - 
+        - civis
+    - 
+      - 
+        - der Strom m
+      - 
+        - amnis
+    - 
+      - 
+        - nahe bei
+      - 
+        - prope
+    - 
+      - 
+        - sizilisch
+      - 
+        - Siculus
+    - 
+      - 
+        - rhodisch
+      - 
+        - Rhodius
+    - 
+      - 
+        - Eisen, Waffe
+      - 
+        - ferrum
+    - 
+      - 
+        - Schmerz, Kummer
+      - 
+        - dolor
+    - 
+      - 
+        - Niederlage, Schaden
+      - 
+        - clades
+    - 
+      - 
+        - Feuer
+      - 
+        - ignis
+    - 
+      - 
+        - Ende Grenze
+      - 
+        - finis
+    - 
+      - 
+        - Grenzen, Gebiet
+      - 
+        - fines
+    - 
+      - 
+        - der Hund
+      - 
+        - canis
+    - 
+      - 
+        - der junge Mann
+      - 
+        - iuvenis
+    - 
+      - 
+        - der (Landes-)Feind
+      - 
+        - hostis
+    - 
+      - 
+        - manigfach, bunt, wankelmütig
+      - 
+        - varius
+    - 
+      - 
+        - leiden, Schmer empfinden, bedauern
+      - 
+        - dolere
+    - 
+      - 
+        - es zeigt sich, es ist klar
+      - 
+        - apparet
+    - 
+      - 
+        - Horaz
+      - 
+        - Horatius
+  39: 
+    - 
+      - 
+        - Ankunft
+      - 
+        - adventus
+    - 
+      - 
+        - die Kohorte, Schar (10Kohorten=1Legion)
+      - 
+        - cohors
+    - 
+      - 
+        - die Burg
+      - 
+        - arx
+    - 
+      - 
+        - die Kunst, Fertigkeit
+      - 
+        - ars
+    - 
+      - 
+        - die Stadt
+      - 
+        - urbs
+    - 
+      - 
+        - die Nacht
+      - 
+        - nox
+    - 
+      - 
+        - die (Über-)Reste, Rest
+      - 
+        - reliquiae
+    - 
+      - 
+        - das Los, Schiksal
+      - 
+        - sors
+    - 
+      - 
+        - der Teil, die Seite
+      - 
+        - pars
+    - 
+      - 
+        - das Lebewesen, Tier (n)
+      - 
+        - animal
+    - 
+      - 
+        - Meer (n)
+      - 
+        - mare
+    - 
+      - 
+        - die Stadtmauer(n) (n)
+      - 
+        - moenia
+    - 
+      - 
+        - blind, unsichtbar
+      - 
+        - caecus
+    - 
+      - 
+        - am Meer gelgen, See-
+      - 
+        - maritimus
+    - 
+      - 
+        - aber (...)
+      - 
+        - vero
+    - 
+      - 
+        - das Geschlecht, Stamm, Volk
+      - 
+        - gens
+    - 
+      - 
+        - der Zahn
+      - 
+        - dens
+    - 
+      - 
+        - die Quelle
+      - 
+        - fons
+    - 
+      - 
+        - der Berg
+      - 
+        - mons
+    - 
+      - 
+        - die Brücke
+      - 
+        - pons
+    - 
+      - 
+        - Durst (f)
+      - 
+        - sitis
+    - 
+      - 
+        - der Turm (f)
+      - 
+        - turris
+    - 
+      - 
+        - die Kraft, Gewalt, Menge (nur im Sg. Nom, Akk, Abl)
+      - 
+        - vis
+    - 
+      - 
+        - die Kräfte, Streitkräfte (f)
+      - 
+        - vires
+    - 
+      - 
+        - günstig, geeignet
+      - 
+        - opportunus
+    - 
+      - 
+        - hängen, stecken(bleiben)
+      - 
+        - haerere
+    - 
+      - 
+        - Romulus
+      - 
+        - Romulus
+    - 
+      - 
+        - Korinth (f)
+      - 
+        - Corinthus
+    - 
+      - 
+        - Ancus
+      - 
+        - Ancus
+    - 
+      - 
+        - Tiber
+      - 
+        - Tiberis
+    - 
+      - 
+        - ehe, bevor
+      - 
+        - priusquam
+  40: 
+    - 
+      - 
+        - schwarz
+        - dunkel
+      - 
+        - niger
+    - 
+      - 
+        - belebt
+        - vielbesucht
+        - gefeiert
+      - 
+        - celeber, celebris, celebre
+    - 
+      - 
+        - zu Fuß
+        - zu Land
+      - 
+        - pedester, pedestris, pedestre
+    - 
+      - 
+        - Reiter-
+        - Ritter-
+        - ","
+      - 
+        - equester, equestris, equestre
+    - 
+      - 
+        - scharf
+        - heftig
+        - sprizig
+        - feurig
+      - 
+        - acer, acris, acre
+    - 
+      - 
+        - schnell
+        - rasch
+      - 
+        - celer, celeris, celere
+    - 
+      - 
+        - kurz
+      - 
+        - brevis, breve
+    - 
+      - 
+        - jeder
+        - ganz
+        - "(PL: alle)"
+      - 
+        - omnis, omne
+    - 
+      - 
+        - bewundernswert
+        - erstaunlich
+      - 
+        - mirabilis, mirabile
+    - 
+      - 
+        - einzeln
+        - einzigartig
+      - 
+        - singularis, singulare
+    - 
+      - 
+        - das Marsfeld
+      - 
+        - Campus Martius
+    - 
+      - 
+        - die warmen Bäder
+        - Thermen
+      - 
+        - thermae
+    - 
+      - 
+        - das Mädchen
+      - 
+        - virgo
+    - 
+      - 
+        - kräftig
+        - tapfer
+      - 
+        - fortis, forte
+    - 
+      - 
+        - vertraut
+        - freundschaftlich
+      - 
+        - familiaris, familiare
+    - 
+      - 
+        - schimpflich
+        - hässlig
+        - schändlig
+      - 
+        - turpis, turpe
+    - 
+      - 
+        - unverletzt
+        - heil
+      - 
+        - incolumis, incolume
+    - 
+      - 
+        - traurig
+      - 
+        - tristis, triste
+    - 
+      - 
+        - leicht (zu tun)
+      - 
+        - facilis, facile
+    - 
+      - 
+        - berühmt
+        - vornehm
+        - adelig
+      - 
+        - nobilis, nobile
+    - 
+      - 
+        - ausgezeichnet
+        - kenntlich
+      - 
+        - insignis, insigne
+    - 
+      - 
+        - unsterblich
+      - 
+        - immortalis, immortale
+    - 
+      - 
+        - streblich
+        - irdisch
+      - 
+        - mortalis, mortale
+    - 
+      - 
+        - sich (herab)stürzen
+      - 
+        - praeciptare
+  41: 
+    - 
+      - 
+        - das Gerücht
+        - der (gute oder schlechte) Ruf
+      - 
+        - fama
+    - 
+      - 
+        - der Brand
+      - 
+        - incendium
+    - 
+      - 
+        - der Kreis
+        - die Scheibe
+      - 
+        - orbis
+    - 
+      - 
+        - der Erdkreis
+      - 
+        - orbis terrarum
+    - 
+      - 
+        - gemeinsam
+        - allgemein
+      - 
+        - communis, commune
+    - 
+      - 
+        - nützlich
+        - brauchbar
+      - 
+        - utilis, utile
+    - 
+      - 
+        - schwer
+        - gewichtig
+        - ernst
+      - 
+        - gravis, grave
+    - 
+      - 
+        - ähnlich
+      - 
+        - similis, simile
+    - 
+      - 
+        - wie beschaffen
+        - was für ein
+        - welch
+      - 
+        - qualis, quale
+    - 
+      - 
+        - so beschaffen
+        - solch
+      - 
+        - talis, tale
+    - 
+      - 
+        - die Raserei
+        - Tollheit
+      - 
+        - furor
+    - 
+      - 
+        - der Erste
+        - Fürst
+      - 
+        - princeps
+    - 
+      - 
+        - unwissend (in)
+      - 
+        - inscius
+    - 
+      - 
+        - er eine (von zweien)
+        - der andere (von zweien)
+      - 
+        - alter
+    - 
+      - 
+        - niedrig
+        - gering
+      - 
+        - humilis, humile
+    - 
+      - 
+        - leicht(sinnig)
+      - 
+        - levis, leve
+    - 
+      - 
+        - bürgerlich
+        - öffentlich
+        - politisch
+      - 
+        - civilis, civile
+    - 
+      - 
+        - die Politik
+      - 
+        - res civiles
+    - 
+      - 
+        - das Kriegswesen
+      - 
+        - res militaris
+    - 
+      - 
+        - soldatisch
+        - kriegerisch
+        - Kriegs-
+      - 
+        - militaris, militare
+    - 
+      - 
+        - roh
+        - grausam
+      - 
+        - crudelis, crudele
+  42: 
+    - 
+      - 
+        - das Schicksal
+        - Verhängnis
+      - 
+        - fatum
+    - 
+      - 
+        - die Landschaft
+      - 
+        - municipium
+    - 
+      - 
+        - die Bewegung
+        - Eregung
+      - 
+        - motus
+    - 
+      - 
+        - der Lauf
+        - der Kurs
+      - 
+        - cursus
+    - 
+      - 
+        - glücklich
+        - erfolgreich
+      - 
+        - felix, felicis
+    - 
+      - 
+        - mächtig
+      - 
+        - potens, potentis
+    - 
+      - 
+        - klug
+        - erfahren
+      - 
+        - prudens, prudentis
+    - 
+      - 
+        - weise
+        - verständig
+      - 
+        - sapiens, sapientis
+    - 
+      - 
+        - heftig
+        - nachdrücklich
+      - 
+        - vehemens, vehementis
+    - 
+      - 
+        - ungeheuer
+        - gewaltig
+        - rießig
+      - 
+        - ingens, ingentis
+    - 
+      - 
+        - beständig
+        - standhaft
+      - 
+        - constans, constantis
+    - 
+      - 
+        - verwegen
+        - kühn
+      - 
+        - audax, audacis
+    - 
+      - 
+        - reich
+      - 
+        - dives, divitis
+    - 
+      - 
+        - arm
+      - 
+        - pauper, pauperis
+    - 
+      - 
+        - alt
+      - 
+        - vetus, veteris
+    - 
+      - 
+        - erstrangig
+      - 
+        - princeps, principis
+    - 
+      - 
+        - eingedenkt
+        - sich erinnernd
+      - 
+        - memor, memoris
+    - 
+      - 
+        - liegen
+      - 
+        - iacere
+    - 
+      - 
+        - leb wohl!
+      - 
+        - vale!
+  43: 
+    - 
+      - 
+        - Nachsicht
+        - Verzeihung
+      - 
+        - venia
+    - 
+      - 
+        - das Werk
+        - die Arbeit
+        - die Befestigungsanlage
+      - 
+        - opus
+    - 
+      - 
+        - ausrüsten
+        - bewaffenen
+      - 
+        - armare
+    - 
+      - 
+        - neulich
+        - vor kurzem
+      - 
+        - nuper
+  44: 
+    - 
+      - 
+        - die Flut
+        - die Woge
+      - 
+        - fluctus
+    - 
+      - 
+        - das Gewitter
+        - der Sturm
+        - die Zeit
+      - 
+        - tempestas
+    - 
+      - 
+        - erfolglos
+        - vergenens
+        - vergeblich
+      - 
+        - frustra
+  45: 
+    - 
+      - 
+        - der Anfang
+        - die Grundlage
+      - 
+        - principium
+    - 
+      - 
+        - die Miene
+        - der Gesichtsausdruck
+      - 
+        - vultus
+    - 
+      - 
+        - der Tempel (ein Raum)
+      - 
+        - aedis
+    - 
+      - 
+        - das Haus (mehrere Räume)
+      - 
+        - aedes
+    - 
+      - 
+        - (so)eben
+        - nur
+      - 
+        - modo
+    - 
+      - 
+        - Arabien
+      - 
+        - Arabia
+  46: 
+    - 
+      - 
+        - der (See-)Räuber
+      - 
+        - praedo
+    - 
+      - 
+        - wohlbehalten
+        - unverletzt
+      - 
+        - salvus
+    - 
+      - 
+        - schrecklich
+        - wild
+      - 
+        - atrox
+    - 
+      - 
+        - sei gegrüßt!
+      - 
+        - salve!
+    - 
+      - 
+        - wohin?
+      - 
+        - quo?
+  47: 
+    - 
+      - 
+        - der Leib
+        - der Körper
+        - (n)
+      - 
+        - corpus
+    - 
+      - 
+        - der Monat
+        - (m)
+      - 
+        - mensis
+    - 
+      - 
+        - übrig
+        - restlich
+      - 
+        - reliquus
+    - 
+      - 
+        - diktieren
+      - 
+        - dictare
+    - 
+      - 
+        - vortragen
+        - vorlesen
+      - 
+        - recitare
+    - 
+      - 
+        - raten
+        - zureden
+      - 
+        - suadere
+    - 
+      - 
+        - wieder
+        - wiederum
+      - 
+        - rursus
+    - 
+      - 
+        - wegen
+        - um...willen
+      - 
+        - causa
+  48: 
+    - 
+      - 
+        - Einwohner
+        - Bewohner
+        - (m)
+      - 
+        - incola
+    - 
+      - 
+        - der Vogel
+        - (f)
+      - 
+        - avis
+    - 
+      - 
+        - der Hügel
+        - Anhöhe
+        - (m)
+      - 
+        - collis
+    - 
+      - 
+        - lieb
+        - teuer
+      - 
+        - carus
+    - 
+      - 
+        - gelegen
+        - liegend
+      - 
+        - situs
+    - 
+      - 
+        - Vater
+        - Mutter
+      - 
+        - parens
+    - 
+      - 
+        - Eltern
+      - 
+        - parentes
+    - 
+      - 
+        - wütend
+        - wild
+      - 
+        - saevus
+    - 
+      - 
+        - benachbart
+      - 
+        - finitimus
+    - 
+      - 
+        - angesehen
+        - anständig
+        - gut
+        - ehrenhaft
+      - 
+        - honestus
+    - 
+      - 
+        - glänzend
+        - prächtig
+      - 
+        - splendidus
+    - 
+      - 
+        - begütert
+        - wohlhabend
+      - 
+        - locuples, locupletis
+    - 
+      - 
+        - schierig
+        - schwer
+      - 
+        - difficilis, difficile
+    - 
+      - 
+        - unähnlich
+      - 
+        - dissimilis, dissimile
+    - 
+      - 
+        - wild
+        - trozig
+      - 
+        - ferox, ferocis
+    - 
+      - 
+        - einfach
+        - schlicht
+      - 
+        - simplex, simplicis
+  49: 
+    - 
+      - 
+        - der Anstand
+      - 
+        - modestia
+    - 
+      - 
+        - das Zeitalter
+        - das Jahrhundert
+        - ","
+      - 
+        - saeculum
+    - 
+      - 
+        - geeignet
+        - passend
+      - 
+        - idoneus
+    - 
+      - 
+        - die Biegung
+        - die Bucht
+        - der Busen
+        - der Gewandbausch
+        - ","
+      - 
+        - sinus
+    - 
+      - 
+        - alt
+        - altertümlich
+      - 
+        - vetustus
+    - 
+      - 
+        - beobachten
+        - beachten
+      - 
+        - observare
+    - 
+      - 
+        - je...desto
+      - 
+        - quo...eo
+    - 
+      - 
+        - verdienter Maßen
+        - mit Recht
+      - 
+        - merito
+    - 
+      - 
+        - unterhalb
+        - unter
+      - 
+        - infra
+    - 
+      - 
+        - oberhalb
+        - über
+      - 
+        - supra
+    - 
+      - 
+        - allmählich
+      - 
+        - paulatim
+    - 
+      - 
+        - vorwärts
+        - unverzüglich
+      - 
+        - protinus
+  50: 
+    - 
+      - 
+        - die Drohung(en)
+      - 
+        - minae
+    - 
+      - 
+        - der Schild
+      - 
+        - scutum
+    - 
+      - 
+        - der Schutz
+        - die Besatzung
+      - 
+        - praesidium
+    - 
+      - 
+        - der Weg
+        - der Marsch
+        - die Reise
+        - (n)
+      - 
+        - iter, itineris
+    - 
+      - 
+        - plÃ¶tzlich
+        - unerwartet
+      - 
+        - repentinus
+    - 
+      - 
+        - gÃ¼nstig
+        - freigebig
+      - 
+        - benignus
+    - 
+      - 
+        - bittend
+        - flehend
+      - 
+        - supplex, supplicis
+    - 
+      - 
+        - schnell
+      - 
+        - cito
+    - 
+      - 
+        - quam (mit Superlativ)
+      - 
+        - mÃ¶glichst
+  51: 
+    - 
+      - 
+        - gehen
+      - 
+        - ire
+    - 
+      - 
+        - herantreten, aufsuchen
+      - 
+        - adire
+    - 
+      - 
+        - weggehen
+      - 
+        - abire
+    - 
+      - 
+        - herausgehen
+      - 
+        - exire
+    - 
+      - 
+        - vorbeigehen
+      - 
+        - praeterire
+    - 
+      - 
+        - zurückgehen, rurückkehren
+      - 
+        - redire
+    - 
+      - 
+        - hinübergehen, überschreiten
+      - 
+        - transire
+    - 
+      - 
+        - Irrtum, Irrfahrt
+      - 
+        - error
+    - 
+      - 
+        - zornig, entzürnt
+      - 
+        - iratus
+    - 
+      - 
+        - sobald
+      - 
+        - ubi
+    - 
+      - 
+        - dorthin (adv)
+      - 
+        - eo
+  52: 
+    - 
+      - 
+        - raten, zureden (+Formen)
+      - 
+        - suadere, suadeo, suasi, suasum
+    - 
+      - 
+        - überreden, überzeugen (+Formen)
+      - 
+        - persuadere, persuadeo, persuasi, persuasum
+    - 
+      - 
+        - drehen, foltern (+Formen)
+      - 
+        - torquere, torqueo, torsi, tortum
+    - 
+      - 
+        - brennen, glühen (+Formen)
+      - 
+        - ardere, ardeo, arxi, arsurus
+    - 
+      - 
+        - vermehren, fördern (+Formen)
+      - 
+        - augere, augeo, auxi, auctum
+    - 
+      - 
+        - Barmherzigkeit, Mitleid
+      - 
+        - misericordia
+    - 
+      - 
+        - Hunger
+      - 
+        - fames
+    - 
+      - 
+        - Bauch, Magen
+      - 
+        - venter
+    - 
+      - 
+        - zugrunde gehen
+      - 
+        - perire
+    - 
+      - 
+        - entgegen (Adv)
+      - 
+        - obviam
+    - 
+      - 
+        - entgegengehen, begegnen
+      - 
+        - obviam ire
+    - 
+      - 
+        - irgendwann, einmal
+      - 
+        - aliquando
+    - 
+      - 
+        - hängen, stecken (bleiben) (+Formen)
+      - 
+        - haerere, haereo, haesi, haesurus
+    - 
+      - 
+        - (ver)lachen (+Formen)
+      - 
+        - ridere, rideo, risi, risum
+    - 
+      - 
+        - leuchten (+Formen)
+      - 
+        - lucere, luceo, luxi
+    - 
+      - 
+        - beauftragen, befehlen (+Formen)
+      - 
+        - iubere, iubeo, iussi, iussum
+    - 
+      - 
+        - bleiben, erwarten (+Formen)
+      - 
+        - manere, maneo, mansi, mansurus
+    - 
+      - 
+        - verharren, fortdauern (+Formen)
+      - 
+        - permanere, permaneo, permansi, permansurus
+    - 
+      - 
+        - (be)drängen (+Formen)
+      - 
+        - urgere, urgeo, ursi
+    - 
+      - 
+        - Wunde, Verletzung
+      - 
+        - vulnus
+    - 
+      - 
+        - Geist, Gedanke, Gesinnung
+      - 
+        - mens
+  53: 
+    - 
+      - 
+        - sehen (+ Formen)
+      - 
+        - videre, video, vidi, visum
+    - 
+      - 
+        - missgönen, beneiden (+ Formen)
+      - 
+        - invidere, invideo, invidi, invisum
+    - 
+      - 
+        - vorhersehen (Akk), sorgen für (Dat) (+ Formen)
+      - 
+        - providere, provideo, providi, provisum
+    - 
+      - 
+        - bewegen (+ Formen)
+      - 
+        - movere, moveo, movi, motum
+    - 
+      - 
+        - bewegen, erregen, veranlassen (+ Formen)
+      - 
+        - commovere, commoveo, commovi, commotum
+        - permovere, permoveo, permovi, permotum
+    - 
+      - 
+        - entfernen, wegschaffen (+ Formen)
+      - 
+        - removere, removeo, removi, remotum
+    - 
+      - 
+        - gewogen/zugetan sein, begünstigen (+ Formen)
+      - 
+        - favere, faveo, favi, fautum
+    - 
+      - 
+        - Acht geben, sich hüten (+ Formen)
+      - 
+        - cavere, caveo, cavi, cautum
+    - 
+      - 
+        - "frevelhaft, verbrecherisch (Sb: Verbrecher)"
+      - 
+        - sceleratus
+        - scelestus
+    - 
+      - 
+        - unglaublich
+      - 
+        - incredibilis, incredibile
+    - 
+      - 
+        - + Formen
+        - sitzen
+      - 
+        - sedere, sedeo, sedi
+    - 
+      - 
+        - besitzen (+ Formen)
+      - 
+        - possidere, possideo, possedi, possessum
+    - 
+      - 
+        - hängen, schweben (+ Formen)
+      - 
+        - pendere, pendeo, pependi
+    - 
+      - 
+        - antworten (+ Formen)
+      - 
+        - respondere, respondeo, responsi, responsum
+    - 
+      - 
+        - Ast, Zweig
+      - 
+        - ramus
+    - 
+      - 
+        - die Unterirdischen, die Unterwelt
+      - 
+        - inferi
+    - 
+      - 
+        - der mittlere, mitten
+      - 
+        - medius
+    - 
+      - 
+        - wegen
+      - 
+        - ob
+    - 
+      - 
+        - über, über...hin
+      - 
+        - super
+  54: 
+    - 
+      - 
+        - Gesandter, Unterfeldherr
+      - 
+        - legatus
+    - 
+      - 
+        - "Jugendlicher Adj: jung"
+      - 
+        - adulescens
+    - 
+      - 
+        - königlich
+      - 
+        - regius
+  55: 
+    - 
+      - 
+        - hören
+      - 
+        - audire
+    - 
+      - 
+        - wissen, verstehen
+      - 
+        - scire
+    - 
+      - 
+        - nicht wissen, nicht kennen
+      - 
+        - nescire
+    - 
+      - 
+        - wüten, toben
+      - 
+        - saevire
+    - 
+      - 
+        - begrenzen, beendigen
+      - 
+        - finire
+    - 
+      - 
+        - bilden, unterrichten
+      - 
+        - erudire
+    - 
+      - 
+        - öffnen, aufdecken
+      - 
+        - aperire
+    - 
+      - 
+        - bedecken
+      - 
+        - operire
+    - 
+      - 
+        - kommen
+      - 
+        - venire
+    - 
+      - 
+        - fühlen, meinen
+      - 
+        - sentire
+    - 
+      - 
+        - befestigen, schützen
+      - 
+        - munire
+    - 
+      - 
+        - Schande
+      - 
+        - ignominia
+    - 
+      - 
+        - Tod
+      - 
+        - mors
+    - 
+      - 
+        - dienen
+      - 
+        - servire
+    - 
+      - 
+        - ziemlich, ganz, sehr
+      - 
+        - admodum
+    - 
+      - 
+        - von wem?
+      - 
+        - a quo?
+  56: 
+    - 
+      - 
+        - hören (+Formen)
+      - 
+        - audire, audio, audivi, auditum
+    - 
+      - 
+        - fühlen, meinen (+Formen)
+      - 
+        - sentire, sentio, sensi, sensum
+    - 
+      - 
+        - abweichen, wiedersprechen, uneins sein (+Formen)
+      - 
+        - dissentire, dissentio, dissensi, dissensum
+    - 
+      - 
+        - übereinstimmen (+Formen)
+      - 
+        - consentire, consentio, consensi, consensum
+    - 
+      - 
+        - fesseln, binden (+Formen)
+      - 
+        - vincire, vincio, vinxi, vinctum
+    - 
+      - 
+        - finden (+Formen)
+      - 
+        - reperire, reperio, repperi, repertum
+    - 
+      - 
+        - erfahren (+Formen)
+      - 
+        - comperire, comperio, comperi, compertum
+    - 
+      - 
+        - kommen (+Formen)
+      - 
+        - venire, venio, veni, ventum
+    - 
+      - 
+        - (er)finden (+Formen)
+      - 
+        - invenire, invenio, inveni, inventum
+    - 
+      - 
+        - zusammenkommen, antreffen, besuchen (+Formen)
+      - 
+        - convenire, convenio, conveni, conventum
+    - 
+      - 
+        - (ans Ziel) gelangen (+Formen)
+      - 
+        - pervenire, pervenio, perveni, perventum
+    - 
+      - 
+        - umzingeln, bedrängen (+Formen)
+      - 
+        - circumvenire, circumvenio, circumveni, circumventum
+    - 
+      - 
+        - es ereignet sich, stößt zu (+Formen)
+      - 
+        - evenire, evenit, evenit
+    - 
+      - 
+        - öffnen, aufdecken (+Formen)
+      - 
+        - aperire, aperio, aperui, apertum
+    - 
+      - 
+        - bedecken (+Formen)
+      - 
+        - operire, operio, operui, opertum
+    - 
+      - 
+        - herabspringen (+Formen)
+      - 
+        - desilire, desilio, desilui
+    - 
+      - 
+        - schöpfen, einsaugen (+Formen)
+      - 
+        - haurire, haurio, hausi, haustum
+    - 
+      - 
+        - erschöpfen (+Formen)
+      - 
+        - exhaurire, exhaurio, exhausi, exhaustum
+    - 
+      - 
+        - einzeunen (+Formen)
+      - 
+        - saeptire, saeptio, saepsi, saeptum
+    - 
+      - 
+        - heiligen, festsetzen (+Formen)
+      - 
+        - sancire, sancio, sanxi, sanctum
+    - 
+      - 
+        - Hirte
+      - 
+        - pastor
+    - 
+      - 
+        - wisse!
+      - 
+        - scito!
+    - 
+      - 
+        - wisset!
+      - 
+        - scitote!
+    - 
+      - 
+        - leicht, mühelos
+      - 
+        - facile
+  57: 
+    - 
+      - 
+        - Bedürfnislosigkeit
+      - 
+        - abstinentia
+    - 
+      - 
+        - ablehnen, sich verweigern
+      - 
+        - recusare
+    - 
+      - 
+        - wie sehr
+      - 
+        - quantopere
+    - 
+      - 
+        - so sehr
+      - 
+        - tantopere
+    - 
+      - 
+        - gerade, wenigstens, zwar, freilich
+      - 
+        - quidem
+  58: 
+    - 
+      - 
+        - Atem, Seele, Leben
+      - 
+        - anima
+    - 
+      - 
+        - heimlich
+      - 
+        - clam
+    - 
+      - 
+        - "zeitlich: seit"
+      - 
+        - ex
+        - e
+    - 
+      - 
+        - mischen (+Formen)
+      - 
+        - miscere, misceo, mixi, mixtum
+  59: 
+    - 
+      - 
+        - Bote, Botschaft
+      - 
+        - nuntius
+    - 
+      - 
+        - (Königs-)Herrschaft, (König-)Reich
+      - 
+        - regnum
+    - 
+      - 
+        - Sprößling, Nachkommenschaft
+      - 
+        - proles
+    - 
+      - 
+        - Schwester
+      - 
+        - sorror
+    - 
+      - 
+        - der äußerste, letzte
+      - 
+        - ultimatus
+    - 
+      - 
+        - schwören
+      - 
+        - iurare
+    - 
+      - 
+        - bestrafen
+      - 
+        - punire
+  60: 
+    - 
+      - 
+        - lesen, auslesen
+      - 
+        - legere
+    - 
+      - 
+        - lenken, leiten
+      - 
+        - regere
+    - 
+      - 
+        - suchen, fragen
+      - 
+        - quaerere
+    - 
+      - 
+        - führen, halten für
+      - 
+        - ducere
+    - 
+      - 
+        - zurückführen
+      - 
+        - reducere
+    - 
+      - 
+        - ergreifen
+      - 
+        - capessere
+    - 
+      - 
+        - (be)treiben, (ver)handeln
+      - 
+        - agere
+    - 
+      - 
+        - erstreben, erbitten, verlangen
+      - 
+        - petere
+    - 
+      - 
+        - sagen, sprechen
+      - 
+        - dicere
+    - 
+      - 
+        - wenden
+      - 
+        - vertere
+    - 
+      - 
+        - lassen, zulassen
+      - 
+        - sinere
+    - 
+      - 
+        - zurückweisen, verschmähen
+      - 
+        - spernere
+    - 
+      - 
+        - reiben, aufbrauchen
+      - 
+        - terere
+    - 
+      - 
+        - sehen, sichten
+      - 
+        - cernere
+    - 
+      - 
+        - schreiten, gehen
+      - 
+        - vadere
+    - 
+      - 
+        - gehen, weichen
+      - 
+        - cedere
+    - 
+      - 
+        - einen Fehler machen
+      - 
+        - peccare
+    - 
+      - 
+        - sei es dass...oder dass
+      - 
+        - sive...sive
+  61: 
+    - 
+      - 
+        - lassen, zulassen (+Formen)
+      - 
+        - sinere, sino, sivi, situm
+    - 
+      - 
+        - ablassen, aufhören (+Formen)
+      - 
+        - desinere, desino, desii, desitum
+    - 
+      - 
+        - reiben, aufbrauchen (+Formen)
+      - 
+        - terere, tero, trivi, tritum
+    - 
+      - 
+        - sichten, sehen (+Formen)
+      - 
+        - cernere, cerno
+    - 
+      - 
+        - entscheiden, beschließen (+Formen)
+      - 
+        - decernere, decerno, decrevi, decretum
+    - 
+      - 
+        - absondern, trennen (+Formen)
+      - 
+        - secernere, secerno, secrevi, secretum
+    - 
+      - 
+        - zurückweisen, verschmähen (+Formen)
+      - 
+        - spernere, sperno, sprevi, spretum
+    - 
+      - 
+        - hinbreiten, hinstrecken (+Formen)
+      - 
+        - sternere, sterno, stravi, stratum
+    - 
+      - 
+        - erstreben, erbitten, verlangen (+Formen)
+      - 
+        - petere, peto, petivi, petitum
+    - 
+      - 
+        - zurückfordern, wiederholen (+Formen)
+      - 
+        - repetere, repeto, repetivi, repetitum
+    - 
+      - 
+        - vorhanden sein, ausrauchen (+Formen)
+      - 
+        - suppetere, suppeto, suppetivi
+    - 
+      - 
+        - reizen, herrausfordern (+Formen)
+      - 
+        - lacessere, lacesso, lacessivi, lacessitum
+    - 
+      - 
+        - die Überirdischen, die Götter
+      - 
+        - superi
+    - 
+      - 
+        - Schlange m
+      - 
+        - serpens
+    - 
+      - 
+        - Seher, Dichter m
+      - 
+        - vates
+    - 
+      - 
+        - + Formen
+        - suchen, fragen (e,ex)
+      - 
+        - quaerere, quaero, quaesivi, quaesitum
+    - 
+      - 
+        - + Formen
+        - herbeiholen
+      - 
+        - arcessere, arcesso, arcessivi, arcessitum
+    - 
+      - 
+        - + Formen
+        - ergreifen
+      - 
+        - capessere, capesso, capessivi, capessitum
+    - 
+      - 
+        - Luft, Hauch
+      - 
+        - aura
+    - 
+      - 
+        - Sehnsucht, Verlangen
+      - 
+        - desiderium
+    - 
+      - 
+        - Liebe
+      - 
+        - amor
+    - 
+      - 
+        - göttliche Macht, Gottheit
+      - 
+        - numen
+    - 
+      - 
+        - Gattin
+      - 
+        - coniunx
+    - 
+      - 
+        - biegen, beugen
+      - 
+        - flectere
+  62: 
+    - 
+      - 
+        - stellen, legen, setzen (+Formen)
+      - 
+        - ponere, pono, posui, positum
+    - 
+      - 
+        - zusammenstellen, ordnen (+Formen)
+      - 
+        - componere, compono, composui, compositum
+    - 
+      - 
+        - niederlassen, ablegen (+Formen)
+      - 
+        - deponere, depono, deposui, depositum
+    - 
+      - 
+        - aussetzen, darlegen (+Formen)
+      - 
+        - exponere, expono, exposui, expositum
+    - 
+      - 
+        - hineinlegen, aufbürden (+Formen)
+      - 
+        - imponere, impono, imposui, impositum
+    - 
+      - 
+        - vorlegen, in Aussicht stellen (+Formen)
+      - 
+        - proponere, propono, proposui, propositum
+    - 
+      - 
+        - aneinanderreihen, zusammenfügen (+Formen)
+      - 
+        - serere, sero, serui, sertum
+    - 
+      - 
+        - verlassen, im Stich lassen (+Formen)
+      - 
+        - deserere, desero, deserui, desertum
+    - 
+      - 
+        - erörtern, sprechen über (+Formen)
+      - 
+        - dissere, dissero, disserui, disputatum
+    - 
+      - 
+        - (er)zeugen, hervorbringen (+Formen)
+      - 
+        - gignere, gigno, genui, genitum
+    - 
+      - 
+        - aufstellen, feststellen, beschließen (+Formen)
+      - 
+        - statuere, statuo, statui, statutum
+    - 
+      - 
+        - feststellen, beschließen (+Formen)
+      - 
+        - constituere, constituo, constitui, constitutum
+    - 
+      - 
+        - fürchten (+Formen)
+      - 
+        - metuere, metuo, metui
+    - 
+      - 
+        - Scherz
+      - 
+        - iocus
+    - 
+      - 
+        - Kerker, Gefängnis
+      - 
+        - carcer
+    - 
+      - 
+        - Vertrauter(in), Freund(in)
+      - 
+        - familiaris
+    - 
+      - 
+        - spielen, scherzen
+      - 
+        - ludere
+    - 
+      - 
+        - es steht fest, es ist bekannt
+      - 
+        - constat
+    - 
+      - 
+        - von da, dann, daher
+      - 
+        - inde
+    - 
+      - 
+        - + Formen
+        - nähern, fördern
+      - 
+        - alere, alo, alui, alitum
+        - alere, alo, alui, altum
+    - 
+      - 
+        - + Formen
+        - bebauen, pflegen, ehren
+      - 
+        - colere, colo, colui, cultum
+    - 
+      - 
+        - befragen, beraten (m Akk), sorgen für (m Dat)
+      - 
+        - consulere, consulo, consului, consultum
+    - 
+      - 
+        - + Formen
+        - (ver)mindern
+      - 
+        - minuere, minuo, minui, minutum
+    - 
+      - 
+        - + Formen
+        - wälzen, rollen
+      - 
+        - volvere, volvo, volvi, volutum
+    - 
+      - 
+        - Bett, Liege
+      - 
+        - lectus
+    - 
+      - 
+        - Alleinherrscher
+      - 
+        - tyrannus
+    - 
+      - 
+        - Reichtum, Macht
+      - 
+        - opes
+    - 
+      - 
+        - + Formen
+        - gesehen werden, scheinen
+      - 
+        - videri, videor, visus sum
+    - 
+      - 
+        - gehen lassen, schicken
+      - 
+        - mittere
+    - 
+      - 
+        - hinablassen, herablassen, senken
+      - 
+        - demittere
+  63: 
+    - 
+      - 
+        - + Formen
+        - schreiben
+      - 
+        - scribere, scribo, scripsi, scriptum
+    - 
+      - 
+        - + Formen
+        - lenken, leiten
+      - 
+        - regere, rego, rexi, rectum
+    - 
+      - 
+        - + Formen
+        - aufrichten, ermutigen
+      - 
+        - erigere, erigo, erexi, erectum
+    - 
+      - 
+        - + Formen
+        - fortfahren (etwas zu tun)
+      - 
+        - pergere, pergo, perrexi
+    - 
+      - 
+        - + Formen
+        - sich erheben, aufstehen
+      - 
+        - surgere, surgo, surrexi
+    - 
+      - 
+        - + Formen
+        - führen, halten für
+      - 
+        - ducere, duco, duxi, ductum
+    - 
+      - 
+        - + Formen
+        - hinführen, veranlassen
+      - 
+        - adducere, adduco, adduxi, adductum
+    - 
+      - 
+        - + Formen
+        - hinabführen, wegführen
+      - 
+        - deducere, deduco, deduxi, deductum
+    - 
+      - 
+        - + Formen
+        - einführen, verleiten
+      - 
+        - inducere, induco, induxi, inductum
+    - 
+      - 
+        - + Formen
+        - (ans Ziel) bringen
+      - 
+        - perducere, perduco, perduxi, perductum
+    - 
+      - 
+        - + Formen
+        - vorführen, hervorbringen
+      - 
+        - producere, produco, produxi, productum
+    - 
+      - 
+        - + Formen
+        - zurückführen
+      - 
+        - reducere, reduco, reduxi, reductum
+    - 
+      - 
+        - + Formen
+        - wegbringen, entziehen
+      - 
+        - subducere, subduco, subduxi, subductum
+    - 
+      - 
+        - + Formen
+        - schnüren, streifen, (das Schwert) ziehen
+      - 
+        - stringere, stringo, strixi, strictum
+    - 
+      - 
+        - + Formen
+        - gürten, umgeben
+      - 
+        - cingere, cingo, cinxi, cinctum
+    - 
+      - 
+        - + Formen
+        - sagen, sprechen
+      - 
+        - dicere, dico, dixi, dictum
+    - 
+      - 
+        - + Formen
+        - vorhersagen
+      - 
+        - praedicere, praedico, praedixi, praedictum
+    - 
+      - 
+        - + Formen
+        - auslöschen
+      - 
+        - exstinguere, exstinguo, exstinxi, exstinctum
+    - 
+      - 
+        - + Formen
+        - (be)decken
+      - 
+        - tegere, tego, texi, tectum
+    - 
+      - 
+        - + Formen
+        - schützen, beschirmen
+      - 
+        - protegere, protego, protexi, protectum
+    - 
+      - 
+        - + Formen
+        - kämpfen
+      - 
+        - confligere, confligo, conflixi, conflictum
+    - 
+      - 
+        - + Formen
+        - leben
+      - 
+        - vivere, vivo, vixi, victurus
+    - 
+      - 
+        - + Formen
+        - aufstellen, ausstatten, unterrichten
+      - 
+        - instruere, instruo, instruxi, instructum
+    - 
+      - 
+        - + Formen
+        - gestalten, erdichten
+      - 
+        - fingere, fingo, finxi, fictum
+    - 
+      - 
+        - Kindheit
+      - 
+        - pueritia
+    - 
+      - 
+        - Zusammenkunft, Versammlung
+      - 
+        - coetus
+    - 
+      - 
+        - König sein, herrschen
+      - 
+        - regnare
+  64: 
+    - 
+      - 
+        - + Formen
+        - tragen, führen, ausführen
+      - 
+        - gerere, gero, gessi, gestum
+    - 
+      - 
+        - + Formen
+        - gehen lassen, schicken
+      - 
+        - mittere, mitto, misi, missum
+    - 
+      - 
+        - + Formen
+        - zulassen
+      - 
+        - admittere, admitto, admisi, admissum
+    - 
+      - 
+        - + Formen
+        - verlieren
+      - 
+        - amittere, amitto, amisi, amissum
+    - 
+      - 
+        - + Formen
+        - zusammenbringen, ausführen, anvertrauen
+      - 
+        - committere, committo, commisi, commissum
+    - 
+      - 
+        - + Formen
+        - entlassen, aufgeben
+      - 
+        - dimittere, dimitto, dimisi, dimissum
+    - 
+      - 
+        - + Formen
+        - aufgeben, beiseite lassen
+      - 
+        - omittere, omitto, omisi, omissum
+    - 
+      - 
+        - + Formen
+        - überlassen, erlauben
+      - 
+        - permittere, permitto, permisi, permissum
+    - 
+      - 
+        - + Formen
+        - versprechen
+      - 
+        - promittere, promitto, promisi, promissum
+    - 
+      - 
+        - + Formen
+        - verachten, nicht beachten
+      - 
+        - contemnere, contemno, contempsi, contemptum
+    - 
+      - 
+        - + Formen
+        - schließen, versperren
+      - 
+        - claudere, claudo, clausi, clausum
+    - 
+      - 
+        - + Formen
+        - verletzen, stoßen
+      - 
+        - laedere, laedo, laesi, laesum
+    - 
+      - 
+        - + Formen
+        - spielen, scherzen
+      - 
+        - ludere, ludo, lusi, lusum
+    - 
+      - 
+        - + Formen
+        - (ver)brennen (etwas)
+      - 
+        - urere, uro, ussi, ustum
+    - 
+      - 
+        - + Formen
+        - anheften, befestigen
+      - 
+        - figere, figo, fixi, fixum
+    - 
+      - 
+        - + Formen
+        - durchbohren
+      - 
+        - transfigere, transfigo, transfixi, transfictum
+    - 
+      - 
+        - Fell, Haut, Pelz
+      - 
+        - pellis
+    - 
+      - 
+        - ankündigen
+      - 
+        - indicere
+    - 
+      - 
+        - herangehen, auf sich nehmen
+      - 
+        - subire
+    - 
+      - 
+        - + Formen
+        - ziehen, schleppen
+      - 
+        - trahere, traheo, traxi, tractum
+    - 
+      - 
+        - + Formen
+        - herabziehen, wegnehmen
+      - 
+        - detrahere, detraheo, detraxi, detractum
+    - 
+      - 
+        - + Formen
+        - drücken
+      - 
+        - premere, premo, pressi, pressum
+    - 
+      - 
+        - + Formen
+        - unterdrücken, überfallen
+      - 
+        - opprimere, opprimo, oppressi, oppressum
+    - 
+      - 
+        - + Formen
+        - schreiten gehen
+      - 
+        - vadere, vado
+    - 
+      - 
+        - + Formen
+        - herauskommen, entkommen
+      - 
+        - evadere, evado, evasi, evasurus
+    - 
+      - 
+        - + Formen
+        - eindringen, angreifen
+      - 
+        - invadere, invado, invasi, invasurus
+    - 
+      - 
+        - + Formen
+        - gehen, weichen
+      - 
+        - cedere, cedo, cessi, cessum
+    - 
+      - 
+        - + Formen
+        - heranrücken, hinzurücken
+      - 
+        - accedere, accedo, accessi, accessurus
+    - 
+      - 
+        - + Formen
+        - weichen, zugestehen
+      - 
+        - concedere, concedo, concessi, concessum
+    - 
+      - 
+        - + Formen
+        - weggehen, sterben
+      - 
+        - decedere, decedo, decessi
+    - 
+      - 
+        - + Formen
+        - weggehen, scheiden
+      - 
+        - discedere, discedo, discessi
+    - 
+      - 
+        - + Formen
+        - biegen, beugen
+      - 
+        - flectere, flecto, flexi, flexum
+    - 
+      - 
+        - Rind, Ochse, Kuh
+      - 
+        - bos
+    - 
+      - 
+        - + Formen
+        - wegführen, abbringen
+      - 
+        - abducere, abduco, abduxi, abductum
+    - 
+      - 
+        - erst, endlich (adv)
+      - 
+        - demum
+    - 
+      - 
+        - nicht...einmal; auch...nicht
+      - 
+        - ne...quidem
+  65: 
+    - 
+      - 
+        - Neid, Missgunst
+      - 
+        - invidia
+    - 
+      - 
+        - Schlaf
+      - 
+        - somnus
+    - 
+      - 
+        - Empindung, Sinn
+      - 
+        - sensus
+    - 
+      - 
+        - entschuldigen
+      - 
+        - excusare
+    - 
+      - 
+        - + Formen
+        - bewhohnen, siedeln
+      - 
+        - incolere, incolo, incolui
+    - 
+      - 
+        - aufsuchen, besuchen, auf sich nehmen
+      - 
+        - obire
+    - 
+      - 
+        - überhaupt, gänzlich
+      - 
+        - omnio
+    - 
+      - 
+        - wenn aber
+      - 
+        - sin
+  66: 
+    - 
+      - 
+        - Finger, Zehe
+      - 
+        - digitus
+    - 
+      - 
+        - Götterspruch, Orakel
+      - 
+        - oraculum
+    - 
+      - 
+        - Antwort
+      - 
+        - responsum
+    - 
+      - 
+        - Größe, Bedeutung
+      - 
+        - magnitudo
+    - 
+      - 
+        - 1. einnehmen, besetzen | 2. beschäftigen
+      - 
+        - occupare
+    - 
+      - 
+        - weswegen, aus welchem Grunde, deswegen, daher
+      - 
+        - quare
+        - qua re
+        - quam ob rem
+        - qua de causa
+  67: 
+    - 
+      - 
+        - herausgeben, äußern [+Formen)
+      - 
+        - edere, edo, edidi, editum
+    - 
+      - 
+        - überliefern, verraten [+Formen)
+      - 
+        - prodere, prodo, prodidi, proditum
+    - 
+      - 
+        - (zurück)geben, machen (zu) [+Formen)
+      - 
+        - reddere, reddo, reddidi, redditum
+    - 
+      - 
+        - übergeben, überliefern [+Formen)
+      - 
+        - tradere, trado, tradidi, traditum
+    - 
+      - 
+        - + Formen
+        - verbergen
+      - 
+        - abdere, abdo, abdidi, abditum
+    - 
+      - 
+        - hinzufügen [+Formen)
+      - 
+        - addere, addo, addidi, additum
+    - 
+      - 
+        - gründen, bergen [+Formen)
+      - 
+        - condere, condo, condidi, conditum
+    - 
+      - 
+        - glauben, (an)vertrauen [+Formen)
+      - 
+        - credere, credo, credidi, creditum
+    - 
+      - 
+        - verderben, vernichten, verlieren [+Formen)
+      - 
+        - perdere, perdo, perdidi, perditum
+    - 
+      - 
+        - aufheben, beseitigen [+Formen)
+      - 
+        - tollere, tollo, sustuli, sublatum
+    - 
+      - 
+        - berühren [+Formen)
+      - 
+        - tangere, tango, tetigi, tactum
+    - 
+      - 
+        - +Formen
+        - berühren, gelingen
+      - 
+        - contingere, contingo, contigi, contactum
+    - 
+      - 
+        - spannen, strecken [+Formen)
+      - 
+        - tendere, tendo, tetendi, tentum
+    - 
+      - 
+        - + Formen
+        - (sich) anstrengen, kämpfen, eilen, behaupten
+      - 
+        - contendere, contendo, contendi, contentum
+    - 
+      - 
+        - +Formen
+        - zeigen
+      - 
+        - ostendere, ostendo, ostendi
+    - 
+      - 
+        - + Formen
+        - fallen
+      - 
+        - cadere, cado, cecidi, casurus
+    - 
+      - 
+        - + Formen
+        - zustoßen, sich ereignen
+      - 
+        - accidere, accido, accidi
+    - 
+      - 
+        - + Formen
+        - hineingeraten, vorfallen
+      - 
+        - incidere, incido, incidi
+    - 
+      - 
+        - + Formen
+        - niederfallen, untergehen
+      - 
+        - occidere, occido, occidi
+    - 
+      - 
+        - + Formen
+        - niederhauen, fällen
+      - 
+        - caedere, caedo, cecidi, caesum
+    - 
+      - 
+        - + Formen
+        - niederschlagen, töten
+      - 
+        - occidere, occido, occidi, occisum
+    - 
+      - 
+        - + Formen
+        - stoßen, (ver)treiben
+      - 
+        - pellere, pello, pepuli, pulsum
+    - 
+      - 
+        - + Formen
+        - antreiben, veranlassen
+      - 
+        - impellere, impello, impuli, impulsum
+    - 
+      - 
+        - + Formen
+        - sparen, schonen
+      - 
+        - parcere, parco, peperci, parsurus
+    - 
+      - 
+        - Stein
+      - 
+        - lapis
+    - 
+      - 
+        - hervorholen
+      - 
+        - promere
+  68: 
+    - 
+      - 
+        - + Formen
+        - (be)treiben, (ver)handeln
+      - 
+        - agere, ago, egi, actum
+    - 
+      - 
+        - + Formen
+        - heraustreben, (ein)fordern, vollenden
+      - 
+        - exigere, exigo, exegi, exactum
+    - 
+      - 
+        - + Formen
+        - in einen Zustand bringen
+      - 
+        - redigere, redigo, redegi, redactum
+    - 
+      - 
+        - + Formen
+        - unterwerfen, (be)zwingen
+      - 
+        - subigere, subigo, subegi, subactum
+    - 
+      - 
+        - + Formen
+        - zusammenbringen, zwingen
+      - 
+        - cogere, cogo, coegi, coactum
+    - 
+      - 
+        - + Formen
+        - lesen, auslesen
+      - 
+        - legere, lego, legi, lectum
+    - 
+      - 
+        - + Formen
+        - auswählen, wählen
+      - 
+        - eligere, eligo, elegi, electum
+        - deligere, deligo, delegi, delectum
+    - 
+      - 
+        - + Formen
+        - (hoch) schätzen, lieben
+      - 
+        - diligere, diligo, dilexi, dilectum
+    - 
+      - 
+        - + Formen
+        - einsehen, verstehen
+      - 
+        - intellegere, intellego, intellexi, intellectum
+    - 
+      - 
+        - + Formen
+        - vernachlässigen, missachten
+      - 
+        - neglegere, neglego, neglexi, neglectum
+    - 
+      - 
+        - + Formen
+        - brechen
+      - 
+        - frangere, frango, fregi, fractum
+    - 
+      - 
+        - + Formen
+        - kaufen
+      - 
+        - emere, emo, emi, emptum
+    - 
+      - 
+        - + Formen
+        - an sich nehmen, wegnehmen
+      - 
+        - adimere, adimo, ademi, ademptum
+    - 
+      - 
+        - + Formen
+        - ab-, wegnehemn
+      - 
+        - demere, demo, dempsi, demptum
+    - 
+      - 
+        - + Formen
+        - hervorholen
+      - 
+        - promere, promo, prompsi, promptum
+    - 
+      - 
+        - + Formen
+        - nehmen
+      - 
+        - sumere, sumo, sumpsi, sumptum
+    - 
+      - 
+        - + Formen
+        - verbrauchen
+      - 
+        - consumere, consumo, consumpsi, consumptum
+    - 
+      - 
+        - + Formen
+        - zurücklassen, verlassen
+      - 
+        - relinquere, relinquo, reliqui, relictum
+    - 
+      - 
+        - + Formen
+        - siegen, besiegen
+      - 
+        - vincere, vinco, vici, victum
+    - 
+      - 
+        - Beleidigung, Schmach
+      - 
+        - contumelia
+    - 
+      - 
+        - Abgabe, Steuer
+      - 
+        - tributum
+    - 
+      - 
+        - + Formen
+        - aufschichten, errichten
+      - 
+        - exstruere, exstruo, exstruxi, exstructum
+  69: 
+    - 
+      - 
+        - + Formen
+        - anzünden, entflammen
+      - 
+        - incendere, incendo, incendi, incensum
+        - accendere, accendo, accendi, accensum
+    - 
+      - 
+        - + Formen
+        - abwehren, verteidigen
+      - 
+        - defendere, defendo, defendi, defensum
+    - 
+      - 
+        - + Formen
+        - (er)fassen, verhaften
+      - 
+        - comprehendere, comprehendo, comprehendi, comprehensum
+    - 
+      - 
+        - + Formen
+        - tadeln
+      - 
+        - reprehendere, reprehendo, reprehendi, reprehensum
+    - 
+      - 
+        - + Formen
+        - hinaufsteigen, ersteigen
+      - 
+        - ascendere, ascendo, ascendi, ascensum
+    - 
+      - 
+        - + Formen
+        - herabsteigen, hinabgehen
+      - 
+        - descendere, descendo, descendi, descensum
+    - 
+      - 
+        - + Formen
+        - wenden
+      - 
+        - vertere, verto, verti, versum
+    - 
+      - 
+        - + Formen
+        - wahrnehmen, einschreiten (gegen)
+      - 
+        - animadvertere, animadverto, animadverti, animadversum
+    - 
+      - 
+        - 1.Ausgang  |  2. Ende, Ergebnis
+      - 
+        - exitus
+    - 
+      - 
+        - Handlung, Tat, Untat
+      - 
+        - facinus
+    - 
+      - 
+        - + Formen
+        - (hin)gießen, zerstreuen
+      - 
+        - fundere, fundo, fudi, fusum
+    - 
+      - 
+        - + Formen
+        - fließen
+      - 
+        - fluere, fluo, fluxi
+    - 
+      - 
+        - es gehört sich
+      - 
+        - oportet
+  70: 
+    - 
+      - 
+        - fangen, fasssen, nehmen
+      - 
+        - capere
+    - 
+      - 
+        - annehmen, empfangen, vernhemen
+      - 
+        - accipere
+    - 
+      - 
+        - ausnehmen, aufnehmen
+      - 
+        - excipere
+    - 
+      - 
+        - anfangen, beginnen
+      - 
+        - incipere
+    - 
+      - 
+        - unternehmen, aufnehmen
+      - 
+        - suscipere
+    - 
+      - 
+        - zurücknehmen, aufnehmen
+      - 
+        - recipere
+    - 
+      - 
+        - raufen, rauben
+      - 
+        - rapere
+    - 
+      - 
+        - entreißen
+      - 
+        - eripere
+    - 
+      - 
+        - machen, tun
+      - 
+        - facere
+    - 
+      - 
+        - versehen mit, behandeln
+      - 
+        - afficere
+    - 
+      - 
+        - vollenden, aufreiben
+      - 
+        - conficere
+    - 
+      - 
+        - vollenden, durchsetzen
+      - 
+        - perficere
+    - 
+      - 
+        - fliehen, meiden
+      - 
+        - fugere
+    - 
+      - 
+        - entkommen
+      - 
+        - effugere
+    - 
+      - 
+        - erblicken, ansehen
+      - 
+        - conspicere
+        - aspicere
+    - 
+      - 
+        - herabsehen, verachten
+      - 
+        - despicere
+    - 
+      - 
+        - berücksichtigen
+      - 
+        - respicere
+    - 
+      - 
+        - begehren, wünschen
+      - 
+        - cupere
+    - 
+      - 
+        - + Formen
+        - erscheinen, sich zeigen
+      - 
+        - apparere, appareo, apparui
+    - 
+      - 
+        - + Formen
+        - bewegen, fahren (trans)
+      - 
+        - vehere, veho, vexi, vectum
+    - 
+      - 
+        - + Formen
+        - gefahren werden, fahren (intrans)
+      - 
+        - vehi, vehor, vectus sum
+    - 
+      - 
+        - es ist nötig
+      - 
+        - necesse est
+  71: 
+    - 
+      - 
+        - + Formen
+        - begehren, wünschen
+      - 
+        - cupere, cupio, cupivi, cupitum
+    - 
+      - 
+        - + Formen
+        - raffen, rauben
+      - 
+        - rapere, rapio, rapui, raptum
+    - 
+      - 
+        - + Formen
+        - plündern
+      - 
+        - diripere, diripio, diripui, direptum
+    - 
+      - 
+        - + Formen
+        - entreißen
+      - 
+        - eripere, eripio, eripui, ereptum
+    - 
+      - 
+        - + Formen
+        - erblicken, ansehen
+      - 
+        - aspicere, aspico, aspexi, aspectum
+        - conspicere, conspicio, conspexi, conspectum
+    - 
+      - 
+        - + Formen
+        - herabsehen, verachten
+      - 
+        - despicere, despicio, despexi, despectum
+    - 
+      - 
+        - + Formen
+        - berücksichtigen
+      - 
+        - respicere, respicio, respexi, respectum
+    - 
+      - 
+        - + Formen
+        - schütteln, erschüttern
+      - 
+        - quatere, quatio
+    - 
+      - 
+        - + Formen
+        - erschütter, durchstoßen
+      - 
+        - percutere, percutio, percussi, percussum
+    - 
+      - 
+        - + Formen
+        - hervorbringen, gebären, erwerben
+      - 
+        - parere, pario, peperi, partum
+    - 
+      - 
+        - + Formen
+        - fassen, fangen, nehmen
+      - 
+        - capere, capio, cepi, captum
+    - 
+      - 
+        - + Formen
+        - annehmen, empfangen, vernehmen
+      - 
+        - accipere, accipio, accepi, acceptum
+    - 
+      - 
+        - + Formen
+        - ausnehmen, aufnehmen
+      - 
+        - excipere, excipio, excepi, exceptum
+    - 
+      - 
+        - + Formen
+        - vorschreiben, wegnehmen
+      - 
+        - praecipere, praecipio, praecepi, praeceptum
+    - 
+      - 
+        - + Formen
+        - zurücknehmen, aufnehmen
+      - 
+        - recipere, recipio, recepi, receptum
+    - 
+      - 
+        - + Formen
+        - unternehmen, aufnehmen
+      - 
+        - suscipere, suscipio, suscepi, susceptum
+    - 
+      - 
+        - + Formen
+        - anfangen, beginnen
+      - 
+        - incipere, incipio, incepi, inceptum
+    - 
+      - 
+        - + Formen
+        - machen, tun
+      - 
+        - facere, facio, feci, factum
+    - 
+      - 
+        - + Formen
+        - versehen mit, behandeln
+      - 
+        - afficere, afficio, affeci, affectum
+    - 
+      - 
+        - + Formen
+        - vollenden, aufreiben
+      - 
+        - conficere, conficio, confeci, confectum
+    - 
+      - 
+        - + Formen
+        - niedermachen, töten
+      - 
+        - interficere, interficio, interfeci, interfectum
+    - 
+      - 
+        - + Formen
+        - vollenden, durchsetzen
+      - 
+        - perficere, perficio, perfeci, perfectum
+    - 
+      - 
+        - + Formen
+        - fliehen, meiden
+      - 
+        - fugere, fugio, fugi, fugiturus
+    - 
+      - 
+        - + Formen
+        - entkommen
+      - 
+        - effugere, effugio, effugi
+    - 
+      - 
+        - + Formen
+        - werfen, schleudern
+      - 
+        - iacere, iacio, ieci, iactum
+    - 
+      - 
+        - + Formen
+        - (zusammen)werfen, vermuten
+      - 
+        - conicere, conicio, conieci, coniectum
+    - 
+      - 
+        - + Formen
+        - hinauswerfen, vertreiben
+      - 
+        - eicere, eicio, eieci, eiectum
+    - 
+      - 
+        - + Formen
+        - hinüberbringen, übersetzen
+      - 
+        - traicere, traicio, traieci, traiectum
+    - 
+      - 
+        - + Formen
+        - hinabwerfen, niederwerfen
+      - 
+        - deicere, deicio, deieci, deiectum
+    - 
+      - 
+        - + Formen
+        - hineinwerfen, einjagen (Furcht)
+      - 
+        - inicere, inicio, inieci, iniectum
+    - 
+      - 
+        - Wirbel, Scheitel, Gipfel
+      - 
+        - vertex
+    - 
+      - 
+        - väterlich, heimisch
+      - 
+        - patrius
+  72: 
+    - 
+      - 
+        - + Formen
+        - wachsen, zunehmen
+      - 
+        - crescere, cresco, crevi
+    - 
+      - 
+        - + Formen
+        - ruhen
+      - 
+        - quiescere, quiesco, quievi
+    - 
+      - 
+        - + Formen
+        - sich gewöhnen an
+      - 
+        - consuescere, consuesco, consuevi
+    - 
+      - 
+        - + Formen
+        - kennen lernen, erkennen
+      - 
+        - noscere, nosco, novi
+    - 
+      - 
+        - + Formen
+        - erfahren, erkennen
+      - 
+        - cognoscere, cognosco, cognovi, cognitum
+    - 
+      - 
+        - + Formen
+        - lernen
+      - 
+        - discere, disco, didici
+    - 
+      - 
+        - + Formen
+        - fordern, verlangen
+      - 
+        - poscere, posco, poposci, postulatum
+    - 
+      - 
+        - + Formen
+        - begehren
+      - 
+        - concupiscere, concupisco, concupivi
+    - 
+      - 
+        - + Formen
+        - beiziehen, aufnehmen
+      - 
+        - asciscere, ascisco, ascivi, ascitum
+    - 
+      - 
+        - himmlisch
+      - 
+        - caelestis, caeleste
+    - 
+      - 
+        - + Formen
+        - unterwerfen
+      - 
+        - subicere, subicio, subieci, subiectum
+    - 
+      - 
+        - + Formen
+        - 1. abfallen | 2. ausgehen, fehlen
+      - 
+        - deficere, deficio, defeci, defectum
+    - 
+      - 
+        - + Formen
+        - wiederherstellen
+      - 
+        - reficere, reficio, refeci, refectum
+  73: 
+    - 
+      - 
+        - Ausrüstung, Schmuck
+      - 
+        - ornamentum
+    - 
+      - 
+        - Grab, Grabmal
+      - 
+        - sepulcrum
+    - 
+      - 
+        - furchtsam
+      - 
+        - timidus
+    - 
+      - 
+        - grüßen, begrüßen
+      - 
+        - salutare
+    - 
+      - 
+        - + Formen
+        - herausragen, hervorragen
+      - 
+        - eminere, emineo, eminui
+    - 
+      - 
+        - + Formen
+        - bestatten
+      - 
+        - sepelire, sepelio, sepelivi, sepultum
+    - 
+      - 
+        - 1. Hand(fläche)  |  2. Palm, Palmzweig
+      - 
+        - palma
+    - 
+      - 
+        - Schweigen, Stille
+      - 
+        - silentium
+    - 
+      - 
+        - gottesdienstliche Handlung, Opfer
+      - 
+        - sacrum
+    - 
+      - 
+        - Opferschauer, Zeichendeuter
+      - 
+        - haruspex
+    - 
+      - 
+        - grün
+      - 
+        - viridis, viride
+    - 
+      - 
+        - bekleiden
+      - 
+        - vestire
+    - 
+      - 
+        - + Formen
+        - einherschreiten
+      - 
+        - incedere, incedo, incessi
+    - 
+      - 
+        - + Formen
+        - laufen
+      - 
+        - currere, curro, cucurri, cursum
+    - 
+      - 
+        - fern, in der Ferne, von weitem
+      - 
+        - procul
+    - 
+      - 
+        - zahlreich, häufig, dicht gedrängt
+      - 
+        - frequens, frequentis
+    - 
+      - 
+        - + Formen
+        - 1. singen  |  2 (ein Instrumen) spielen, blasen
+      - 
+        - canere, cano, cecini
+    - 
+      - 
+        - + Formen
+        - hinausstoßen, vertreiben
+      - 
+        - expellere, expello, expuli, expulsum
+    - 
+      - 
+        - wie (zum Beispiel)
+      - 
+        - sicut
+  74: 
+    - 
+      - 
+        - das Zusammenlaufen, der Auflauf, Ansturm
+      - 
+        - concursus
+    - 
+      - 
+        - gleich, gewachen, ebenbürtig
+      - 
+        - par, paris
+    - 
+      - 
+        - bilig, wertlos
+      - 
+        - villis, ville
+    - 
+      - 
+        - fragen
+      - 
+        - interrogare
+    - 
+      - 
+        - gesund machen, heilen
+      - 
+        - sanare
+    - 
+      - 
+        - belagern
+      - 
+        - obsidere
+    - 
+      - 
+        - 1. hineingehen, betreten  |  2. beginnen
+      - 
+        - inire
+    - 
+      - 
+        - + Formen
+        - trennen, teilen
+      - 
+        - dividere, divido, dividi, divisum
+    - 
+      - 
+        - + Formen
+        - zusammenlaufen, zusammenstoßen
+      - 
+        - concurrere, concurro, concurri, concursum
+    - 
+      - 
+        - zufällig
+      - 
+        - forte
+    - 
+      - 
+        - aus (meinem) eigenen Antrieb, von selbst, freiwillig
+      - 
+        - mea sponte
+    - 
+      - 
+        - nachdem
+      - 
+        - postquam
+  75: 
+    - 
+      - 
+        - Ansiedlung, Kolonie
+      - 
+        - colonia
+    - 
+      - 
+        - Wohnsitz
+      - 
+        - domicilium
+    - 
+      - 
+        - Grund(lage)
+      - 
+        - fundamentum
+    - 
+      - 
+        - die aufgehende Sonne, der Sonnenaufgang
+      - 
+        - sol oriens
+    - 
+      - 
+        - ruhig, firedlich
+      - 
+        - tranquillus
+    - 
+      - 
+        - geduldig, ertragend
+      - 
+        - patiens, patientis
+    - 
+      - 
+        - mildern, lindern
+      - 
+        - lenire
+    - 
+      - 
+        - am nächsten Tag, tags darauf
+      - 
+        - postridie
+  76: 
+    - 
+      - 
+        - Gegner
+      - 
+        - adversarius
+    - 
+      - 
+        - Glied, Teil
+      - 
+        - membrum
+    - 
+      - 
+        - (Volks-)Menge
+      - 
+        - plebs
+    - 
+      - 
+        - Volksversammlung
+      - 
+        - contio
+    - 
+      - 
+        - Wegzug, Trennung
+      - 
+        - secessio
+    - 
+      - 
+        - Amt des Konsuln, Konsulat
+      - 
+        - consulatus
+    - 
+      - 
+        - Amt des Tribunen, Tribunat
+      - 
+        - tribunatus
+    - 
+      - 
+        - gleich, gerecht, günstig
+      - 
+        - aequus
+    - 
+      - 
+        - ausländisch, unzivilisiert, wild
+      - 
+        - barbarus
+    - 
+      - 
+        - + Formen
+        - es passt, ziehm sich, schickt sich
+      - 
+        - decet, decuit, decere
+    - 
+      - 
+        - + Formen
+        - schaudern, starren
+      - 
+        - horrere, horreo, horrui
+    - 
+      - 
+        - + Formen
+        - wenden, verwandeln
+      - 
+        - convertere, converto, converti, conversum
+    - 
+      - 
+        - + Formen
+        - beiseite gehen, weggehen
+      - 
+        - secedere, secedo, secessi
+    - 
+      - 
+        - + Formen
+        - seufzen, stöhnen
+      - 
+        - gemere, gemo, gemui
+    - 
+      - 
+        - von hier, hierauf, daher
+      - 
+        - hinc
+  77: 
+    - 
+      - 
+        - Gewicht, Pfund
+      - 
+        - pondus
+    - 
+      - 
+        - ungleich, ungerecht, ungünstig
+      - 
+        - iniquus
+    - 
+      - 
+        - verwüsten
+      - 
+        - vastare
+    - 
+      - 
+        - Belagerung
+      - 
+        - obsidio
+    - 
+      - 
+        - + Formen
+        - hinübersteigen, überschreiten
+      - 
+        - transcendere, transcendo, transcendi, transcensum
+    - 
+      - 
+        - + Formeln
+        - 1. vorankommen, (etwas) ausirchten  | 2. nützen
+      - 
+        - proficere, proficio, profeci, profectum
+    - 
+      - 
+        - + Formen
+        - abwenden
+      - 
+        - avertere, averto, averti, aversum
+    - 
+      - 
+        - + Formen
+        - begegenen, entgegentreten
+      - 
+        - occurrere, occurro, occurri
+  78: 
+    - 
+      - 
+        - Eid, Schwur
+      - 
+        - ius iurandum
+    - 
+      - 
+        - + Formen
+        - täuschen
+      - 
+        - fallere, fallo, fefelli
+    - 
+      - 
+        - + Formen
+        - brechen
+      - 
+        - rumpere, rumpo, rupi, ruptum
+    - 
+      - 
+        - + Formen
+        - verteilen, ordnen
+      - 
+        - disponere, dispono, disposui, dispositum
+    - 
+      - 
+        - Joch, Bergrücken
+      - 
+        - iugum
+    - 
+      - 
+        - "Schnee (Pl: Schneemassen)"
+      - 
+        - nix
+    - 
+      - 
+        - feindlich, kampfbereit
+      - 
+        - infestus
+    - 
+      - 
+        - sich verschwören
+      - 
+        - coniurare
+    - 
+      - 
+        - + Formen
+        - vorrücken
+      - 
+        - procedere, procedo, processi
+    - 
+      - 
+        - gegen (freundlich) (mit Akk)
+      - 
+        - erga
+    - 
+      - 
+        - an- vorbei, außer, gegen (mit Akk)
+      - 
+        - praeter
+    - 
+      - 
+        - entlang, gemäß (mit Akk)
+      - 
+        - secundum
+    - 
+      - 
+        - jenseits, über, über- hinaus (mit Akk)
+      - 
+        - ultra
+    - 
+      - 
+        - jenseits, über, über- hinüber (mit Akk)
+      - 
+        - trans
+  79: 
+    - 
+      - 
+        - Schule
+      - 
+        - schola
+    - 
+      - 
+        - Schritt
+      - 
+        - passus
+    - 
+      - 
+        - gefährlich
+      - 
+        - periculosus
+    - 
+      - 
+        - vorsichtig
+      - 
+        - cautus
+    - 
+      - 
+        - alt, altehrwürdig
+      - 
+        - priscus
+    - 
+      - 
+        - göttlich
+      - 
+        - divinus
+    - 
+      - 
+        - so viele
+      - 
+        - tot
+    - 
+      - 
+        - + Formen
+        - sich erstrecken, beziehen (auf)
+      - 
+        - pertinere, pertineo, pertinui
+    - 
+      - 
+        - + Formen
+        - Wiederstand leisten, innehalten
+      - 
+        - resistere, resisto, restiti
+    - 
+      - 
+        - + Formen
+        - erfassen, wahrnehmen
+      - 
+        - percipere, percipio, percepi, perceptum
+    - 
+      - 
+        - + Formen
+        - wiederherstellen
+      - 
+        - restituere, restituo, restitui, restitutum
+  80: 
+    - 
+      - 
+        - Wissen, Kenntiniss
+      - 
+        - scientia
+    - 
+      - 
+        - Beredsamkeit, Redegabe
+      - 
+        - eloquentia
+    - 
+      - 
+        - Zensor
+      - 
+        - censor
+    - 
+      - 
+        - "st\xE4dtisch, kultiviert (Subs: der St\xE4dter)"
+      - 
+        - urbanus
+    - 
+      - 
+        - "be\xFCerlich, l\xE4ndlich (Subs: der Bauer)"
+      - 
+        - rusticus
+    - 
+      - 
+        - passend, geeignet
+      - 
+        - aptus
+    - 
+      - 
+        - erfahren, kundig
+      - 
+        - peritus
+    - 
+      - 
+        - darin sein, innewohnen
+      - 
+        - inesse
+    - 
+      - 
+        - überreden, dass
+      - 
+        - persuadere, ut
+    - 
+      - 
+        - überzeugen, dass
+      - 
+        - persuadere mit ACI
+    - 
+      - 
+        - hervorragen, sich auszeichnen
+      - 
+        - excellere
+    - 
+      - 
+        - weit(aus), bei weitem
+      - 
+        - longe
+    - 
+      - 
+        - Klugheit
+      - 
+        - prudentia
+    - 
+      - 
+        - Berühmtheit, Adel
+      - 
+        - nobilitas
+    - 
+      - 
+        - hilflos, arm
+      - 
+        - inops, inopis
+    - 
+      - 
+        - 1. ordnen, leiten 2. richtig mischen, mäsigen
+      - 
+        - temperare
+    - 
+      - 
+        - zu Hilfe kommen, abhelfen
+      - 
+        - subvenire
+    - 
+      - 
+        - + Formen
+        - 1. vorhersehen  |  2. sorgen für
+      - 
+        - prospicere, prospicio, prospexi, prospectum
+    - 
+      - 
+        - gegenüber, gegen
+      - 
+        - adversus
+  81: 
+    - 
+      - 
+        - Schüler
+      - 
+        - discipulus
+    - 
+      - 
+        - Verlust, Schaden
+      - 
+        - detrimentum
+    - 
+      - 
+        - Fehler, Laster, Verstoß
+      - 
+        - vitium
+    - 
+      - 
+        - Anklage, Vorwurf, Verbrechen
+      - 
+        - crimen
+    - 
+      - 
+        - Finanzbeamter, Quästor
+      - 
+        - quaestor
+    - 
+      - 
+        - Aufwand, Kosten
+      - 
+        - sumptus
+    - 
+      - 
+        - "gleichaltrig Subst: Altersgenosse, Zeitgenosse"
+      - 
+        - aequalis
+    - 
+      - 
+        - + Formen
+        - zuteilen, zuweisen
+      - 
+        - tribuere, tribuo, tribui, tributum
+    - 
+      - 
+        - irgendjemand, irgendetwas...
+      - 
+        - quisquam
+    - 
+      - 
+        - jemals (Adv)
+      - 
+        - umquam
+    - 
+      - 
+        - allerdings, in der Tat, freilich (Adv)
+      - 
+        - equidem
+    - 
+      - 
+        - nicht nur- sondern auch
+      - 
+        - non modum- sed etiam
+  82: 
+    - 
+      - 
+        - Tapferkeit
+      - 
+        - fortitudo
+    - 
+      - 
+        - 1. edle Gesinnung  |  2. Freigebigkeit
+      - 
+        - liberalitas
+    - 
+      - 
+        - rein, klar
+      - 
+        - purus
+    - 
+      - 
+        - großartig, prächtig
+      - 
+        - magnificus
+    - 
+      - 
+        - freundlich, nett
+      - 
+        - comis, come
+    - 
+      - 
+        - süß, gefällig, angenehm
+      - 
+        - suavis, suave
+    - 
+      - 
+        - + Formen
+        - nicht übereinstimmen, verschieden sein
+      - 
+        - discrepare, discrepo, discrepavi
+    - 
+      - 
+        - sich hinstellen, stehen bleiben, bestehen aus (in)
+      - 
+        - consistere, consisto, constiti
+  83: 
+    - 
+      - 
+        - Kriegsdienst
+      - 
+        - militia
+    - 
+      - 
+        - Beständigkeit, Ausdauer, Charakterfestigkeit
+      - 
+        - constantia
+    - 
+      - 
+        - Ausdauer, Geduld
+      - 
+        - patientia
+    - 
+      - 
+        - Notwendigkeit, Notlage
+      - 
+        - necessitas
+    - 
+      - 
+        - mäßig, besonnen, anspruchslos
+      - 
+        - modicus
+    - 
+      - 
+        - gesamt, ganz
+      - 
+        - universus
+    - 
+      - 
+        - alle (zusammen / insgesamt)
+      - 
+        - universi
+    - 
+      - 
+        - (bluts)verwandt
+      - 
+        - cognatus
+    - 
+      - 
+        - schwach, krank, unzuverlässig
+      - 
+        - infirmus
+    - 
+      - 
+        - gleichzeitig, zugleich
+      - 
+        - simul
+    - 
+      - 
+        - im Krieg und im Frieden
+      - 
+        - domi militiaeque
+  84: 
+    - 
+      - 
+        - Bürgerkrieg
+      - 
+        - bellum civile
+    - 
+      - 
+        - Preis, Wert
+      - 
+        - pretium
+    - 
+      - 
+        - Ädil
+      - 
+        - aedilis
+    - 
+      - 
+        - ausgezeichnet, hervorragend
+      - 
+        - egregius
+    - 
+      - 
+        - einschätzen, beurteilen
+      - 
+        - aestimare
+    - 
+      - 
+        - + Formen
+        - öffentlich bekannt geben, ächten
+      - 
+        - proscribere, proscribo, proscripsi, proscriptum
+    - 
+      - 
+        - Ächtung, Einziehung des Eigentums
+      - 
+        - proscriptio
+    - 
+      - 
+        - nicht
+      - 
+        - haud
+    - 
+      - 
+        - zum Teil, teils (Adv)
+      - 
+        - partim
+    - 
+      - 
+        - Verbannung
+      - 
+        - exilium
+    - 
+      - 
+        - Mord, Gemezel
+      - 
+        - caedes
+    - 
+      - 
+        - ruhig, friedlich
+      - 
+        - quietus
+    - 
+      - 
+        - wahrscheinlich
+      - 
+        - verisimilis, verisimile
+    - 
+      - 
+        - + Formen
+        - hinzufügen
+      - 
+        - adicere, adicio, adieci, adiectum
+    - 
+      - 
+        - + Formen
+        - ausstreuen, besprengen
+      - 
+        - spargere, spargo, sparsi, sparsum
+    - 
+      - 
+        - + Formen
+        - (heraus)suchen, untersuchen
+      - 
+        - exquirere, exquiro, exquisivi, exquisitum
+    - 
+      - 
+        - 1. ja sogar  |  2. vielmehr, im Gegenteil (Adv)
+      - 
+        - immo
+    - 
+      - 
+        - 1. wie wenn, als ob  |  2. gleichsam
+      - 
+        - quasi
+  85: 
+    - 
+      - 
+        - 1 Gewohnheit, Sitte  |  2. Umgang
+      - 
+        - consuetudo
+    - 
+      - 
+        - Erkenntnis, Bekanntschaft
+      - 
+        - cognito
+    - 
+      - 
+        - schlecht, böse, verbrecherisch
+      - 
+        - improbus
+    - 
+      - 
+        - entgegengesetzt, feindlich
+      - 
+        - contrarius
+    - 
+      - 
+        - 1. gemiensam machen  |  2. (miteinander) teilen  |  3. mitteilen
+      - 
+        - communicare
+    - 
+      - 
+        - hin und her wenden
+      - 
+        - versare
+    - 
+      - 
+        - + Formen
+        - sammeln
+      - 
+        - colligere, colligo, collegi, collectum
+  86: 
+    - 
+      - 
+        - (oliven-)Öl
+      - 
+        - oleum
+    - 
+      - 
+        - Früchte, Obst (Pluralwort)
+      - 
+        - poma
+    - 
+      - 
+        - Partei
+      - 
+        - factio
+    - 
+      - 
+        - Geisel, Bürge
+      - 
+        - obses
+    - 
+      - 
+        - führende stellung, Vorrang, Vorherrschaft
+      - 
+        - principatus
+    - 
+      - 
+        - Reiterei
+      - 
+        - equitatus
+    - 
+      - 
+        - überlebend
+      - 
+        - superstes, superstitis
+    - 
+      - 
+        - gütig, sanft, milde
+      - 
+        - clemens, clementis
+    - 
+      - 
+        - + Formen
+        - hinüberführen
+      - 
+        - traducere, traduco, traduxi, traductum
+    - 
+      - 
+        - ungefähr (Adv)
+      - 
+        - circiter
+    - 
+      - 
+        - ziemlich viel, beträchtlich
+      - 
+        - aliquantum
+    - 
+      - 
+        - zu wenig
+      - 
+        - parum
+  87: 
+    - 
+      - 
+        - Schuld
+      - 
+        - culpa
+    - 
+      - 
+        - letzwillige Verfügung, Testament
+      - 
+        - testamentum
+    - 
+      - 
+        - Größe, Erhabenheit, Hoheit
+      - 
+        - maiestas
+    - 
+      - 
+        - Betrug, Täuschung
+      - 
+        - fraus
+    - 
+      - 
+        - beständig, fleißig
+      - 
+        - assiduus
+    - 
+      - 
+        - mild, sanft, ruhig
+      - 
+        - lenis, lene
+    - 
+      - 
+        - bestrafen
+      - 
+        - multare
+    - 
+      - 
+        - verurteilen
+      - 
+        - condemnare
+    - 
+      - 
+        - + Formen
+        - freisprechen, vollenden
+      - 
+        - absolvere, absolvo, absolvi, absolutum
+    - 
+      - 
+        - + Formen
+        - (greichtl.) überführen
+      - 
+        - convincere, convinco, convici, convictum
+    - 
+      - 
+        - + Formen
+        - verzeihen
+      - 
+        - ignoscere, ignosco, ignovi, ignotum
+  88: 
+    - 
+      - 
+        - Enkel
+      - 
+        - nepos
+    - 
+      - 
+        - Schande, Schandtat
+      - 
+        - dedecus
+    - 
+      - 
+        - Festland
+      - 
+        - continens
+    - 
+      - 
+        - sparsam, schonend
+      - 
+        - parcus
+    - 
+      - 
+        - maßvoll, bescheiden
+      - 
+        - modestus
+    - 
+      - 
+        - schmutzig, schäbig, gemein
+      - 
+        - sordidus
+    - 
+      - 
+        - beide
+      - 
+        - ambo
+    - 
+      - 
+        - (ein Kind) annehmen
+      - 
+        - adoptare
+    - 
+      - 
+        - 1. es ist ein Unterschied  |  2. es liegt daran, es ist wichtig, es liegt im Interesse
+      - 
+        - interest
+    - 
+      - 
+        - + Formen
+        - es liegt daran, es ist wichtig
+      - 
+        - refert, retulit, reffere
+    - 
+      - 
+        - + Formen
+        - es lässt unbefriedigt, es reut
+      - 
+        - paenitet, paenituit, paenitere
+    - 
+      - 
+        - + Formen
+        - es beschämt
+      - 
+        - pudet, puduit, pudere
+    - 
+      - 
+        - täglich (Adv)
+      - 
+        - cottidie
+  89: 
+    - 
+      - 
+        - 1. Menschlichkeit  |  2. Bildung
+      - 
+        - humanitas
+    - 
+      - 
+        - 1. Ansehen  |  2. Ehrbarkeit, anständigkeit
+      - 
+        - honestas
+    - 
+      - 
+        - 1. Landsleute  |  2. Volkspartei
+      - 
+        - populares
+    - 
+      - 
+        - die Aristokraten, die aristokratische Partei
+      - 
+        - optimates
+    - 
+      - 
+        - unkundig, ohne Wissen
+      - 
+        - ignarus
+    - 
+      - 
+        - ohne (Anteil), frei von
+      - 
+        - expers
+    - 
+      - 
+        - + Formen
+        - auftreten, entstehen
+      - 
+        - existere, existo, exstiti
+        - exsistere, exsisto, exstiti
+  90: 
+    - 
+      - 
+        - (Nacht-)Wache, Wachtposten
+      - 
+        - vigila
+    - 
+      - 
+        - Zeitraum von zwei Tagen
+      - 
+        - biduum
+    - 
+      - 
+        - Winter
+      - 
+        - hiems
+    - 
+      - 
+        - Aufgang (der Sonne), Entstehung, Osten
+      - 
+        - ortus
+    - 
+      - 
+        - Untergang (der Sonne), Westen
+      - 
+        - occasus
+    - 
+      - 
+        - kalt, starr
+      - 
+        - frigidus
+    - 
+      - 
+        - später, folgend
+      - 
+        - posterus
+    - 
+      - 
+        - durchgehend, ununterbrochen
+      - 
+        - perpetuus
+    - 
+      - 
+        - + Formen
+        - aufwenden
+      - 
+        - impendere, impendo, impendi, impensum
+  91: 
+    - 
+      - 
+        - herrschen
+      - 
+        - dominari
+    - 
+      - 
+        - ermahnen, ermutigen
+      - 
+        - hortari
+    - 
+      - 
+        - schützen
+      - 
+        - tutari
+    - 
+      - 
+        - zurückweisen, verwerfen
+      - 
+        - aspernari
+    - 
+      - 
+        - beklagen, bedauern
+      - 
+        - miserari
+    - 
+      - 
+        - mäßigen, lenken
+      - 
+        - moderari
+    - 
+      - 
+        - trösten, linen
+      - 
+        - consolari
+        - solari
+    - 
+      - 
+        - zögern, zaudern
+      - 
+        - cunctari
+    - 
+      - 
+        - meinen, glauben
+      - 
+        - opinari
+    - 
+      - 
+        - betrachten
+      - 
+        - contemplari
+    - 
+      - 
+        - 1. sich bedinden, sich aufhalten  |  2. sich beschäftigen
+      - 
+        - versari
+    - 
+      - 
+        - untersuchen, sich erkundigen
+      - 
+        - percontari
+    - 
+      - 
+        - versuchen, unternehmen
+      - 
+        - conari
+    - 
+      - 
+        - desswegen
+      - 
+        - propterea
+  92: 
+    - 
+      - 
+        - + Formen
+        - gestehen, bekennen
+      - 
+        - confiteri, confiteor, confessus sum
+        - fateri, fateor, fassus sum
+    - 
+      - 
+        - + Formen
+        - (öffentlich) erkären, angeben
+      - 
+        - profiteri, profiteor, professus sum
+    - 
+      - 
+        - + Formen
+        - (sich) scheuen, fürchten, verehren
+      - 
+        - vereri, vereor, veritus sum
+    - 
+      - 
+        - + Formen
+        - im Auge haben, schützen
+      - 
+        - tueri, tueor, tutatus sum
+    - 
+      - 
+        - + Formen
+        - betrachten
+      - 
+        - intueri, intueor, aspexi
+    - 
+      - 
+        - + Formen
+        - verdienen, sich verdient machen
+      - 
+        - mereri, mereor, meritus sum
+    - 
+      - 
+        - + Formen
+        - scheinen
+      - 
+        - videri, videor, visus sum
+    - 
+      - 
+        - + Formen
+        - errschrecken
+      - 
+        - terreri, terreor, territus sum
+    - 
+      - 
+        - günstig
+      - 
+        - prosper
+        - prosperus
+    - 
+      - 
+        - heilsam, ersprießlich
+      - 
+        - salutaris, salutare
+    - 
+      - 
+        - + Formen
+        - schenken, spenden
+      - 
+        - largiri, largior, largitus sum
+    - 
+      - 
+        - (er)losen, erlangen
+      - 
+        - sortiri
+    - 
+      - 
+        - in Bewegung setzen, unternehmen
+      - 
+        - moliri
+    - 
+      - 
+        - sich bemächtigen
+      - 
+        - potiri
+    - 
+      - 
+        - lügen, vorspiegeln
+      - 
+        - mentiri
+    - 
+      - 
+        - + Formen
+        - angreifen
+      - 
+        - adoriri, adorior, adortus sum
+    - 
+      - 
+        - + Formen
+        - beistimmen
+      - 
+        - assentiri, assentior, assensus sum
+    - 
+      - 
+        - Abstimmung
+      - 
+        - suffragium
+    - 
+      - 
+        - gut, tüchtig, redlich
+      - 
+        - probus
+    - 
+      - 
+        - Beinamen
+      - 
+        - cognomen
+  93: 
+    - 
+      - 
+        - + Formen
+        - verrichten, verwalten
+      - 
+        - fungi, fungor, functus sum
+    - 
+      - 
+        - + Formen
+        - sprechen, reden
+      - 
+        - loqui, loquor, locutus sum
+    - 
+      - 
+        - + Formen
+        - sich unterreden
+      - 
+        - colloqui, colloquor, collocutus sum
+    - 
+      - 
+        - + Formen
+        - fahren
+      - 
+        - vehi, vehor, vectus sum
+    - 
+      - 
+        - + Formen
+        - hineinfahren, losfahren (auf einen)
+      - 
+        - invehi, invehor, invectus sum
+    - 
+      - 
+        - + Formen
+        - klagen, sich beklagen
+      - 
+        - queri, queor, questus sum
+    - 
+      - 
+        - treu, zuverlässig
+      - 
+        - fidelis, fidele
+    - 
+      - 
+        - verdächtigen, vermuten
+      - 
+        - suspicari
+    - 
+      - 
+        - nachts (Adv)
+      - 
+        - noctu
+    - 
+      - 
+        - eine Aufgabe erfüllen, ein Amt verwalten
+      - 
+        - munere fungi
+    - 
+      - 
+        - + Formen
+        - gebrauchen, benützen (+ Abl)
+      - 
+        - uti, utor, usus sum
+    - 
+      - 
+        - + Formen
+        - folgen
+      - 
+        - sequi, sequor, secutus sum
+    - 
+      - 
+        - + Formen
+        - einholen, erreichen
+      - 
+        - assequi, assequor, assecutus sum
+    - 
+      - 
+        - + Formen
+        - folgen, erreichen
+      - 
+        - consequi, consequor, consecutus sum
+    - 
+      - 
+        - + Formen
+        - verfolgen
+      - 
+        - persequi, persequor, persecutus sum
+    - 
+      - 
+        - + Formen
+        - geniesen
+      - 
+        - frui, fruor, usus sum
+    - 
+      - 
+        - + Formen
+        - sich stützen, streben
+      - 
+        - niti, nitor, nixus sum
+        - niti, nitor, nissus sum
+    - 
+      - 
+        - + Formen
+        - umfassen, umarmen
+      - 
+        - complecti, complector, complexus sum
+    - 
+      - 
+        - meinen
+      - 
+        - arbitrari
+    - 
+      - 
+        - + Formen
+        - hineinragen, drohen
+      - 
+        - imminere, immineo, imminui
+    - 
+      - 
+        - + Formen
+        - (völlig) besiegen
+      - 
+        - devincere, devinco, devici, devictum
+    - 
+      - 
+        - eine List gebrauchen
+      - 
+        - dolo uti
+    - 
+      - 
+        - den Frieden genießen
+      - 
+        - pace frui
+    - 
+      - 
+        - dem Freund folgen
+      - 
+        - amicum sequi
+  94: 
+    - 
+      - 
+        - + Formen
+        - leiden, zulassen
+      - 
+        - pati, patior, passus sum
+    - 
+      - 
+        - + Formen
+        - sterben
+      - 
+        - mori, morior, mortuus sum
+    - 
+      - 
+        - + Formen
+        - vorrücken
+      - 
+        - progredi, progredior, progressus sum
+    - 
+      - 
+        - + Formen
+        - herangehen, angreifen
+      - 
+        - aggredi, aggredior, aggressus sum
+    - 
+      - 
+        - + Formen
+        - 1 einherschreiten |  2. betreten
+      - 
+        - ingredi, ingredior, ingressus sum
+    - 
+      - 
+        - + Formen
+        - entstehen, sich erheben
+      - 
+        - exoriri, exorior, exortus sum
+        - oriri, orior, ortus sum
+    - 
+      - 
+        - Enge, Engpass
+      - 
+        - angustiae
+    - 
+      - 
+        - sich wundern, bewundern
+      - 
+        - admirari
+        - mirari
+    - 
+      - 
+        - deuten, ausdeuten
+      - 
+        - interpretari
+    - 
+      - 
+        - sich empören, entrüsten
+      - 
+        - indignari
+    - 
+      - 
+        - wie oft; jedes Mal, wenn
+      - 
+        - quotiens
+    - 
+      - 
+        - + Formen
+        - aufbrechen, (ab)marschieren, hervorgehen
+      - 
+        - proficisci, proficiscor, profectus sum
+    - 
+      - 
+        - + Formen
+        - (sich) rächen, strafen
+      - 
+        - ulcisci, ulciscor, ultus sum
+    - 
+      - 
+        - + Formen
+        - erreichen, erringen
+      - 
+        - adipisci, adipiscor, adeptus sum
+    - 
+      - 
+        - vergessen (+ Dat)
+      - 
+        - oblivisci, obliviscor, oblitus sum
+    - 
+      - 
+        - geboren werden, entstehen
+      - 
+        - nasci, nascor, natus sum
+    - 
+      - 
+        - besuchen
+      - 
+        - visitare
+    - 
+      - 
+        - geweiht, heilig, erwürdig
+      - 
+        - sanctus
+    - 
+      - 
+        - desshalb
+      - 
+        - ideo
+    - 
+      - 
+        - keineswegs, auf keinen Fall
+      - 
+        - nequaquam, haudquaquam
+    - 
+      - 
+        - hauptsächlich, nornehmlich
+      - 
+        - potissimum
+    - 
+      - 
+        - sich für eine Niederlage rächen
+      - 
+        - cladem ulcisci
+    - 
+      - 
+        - die Freunde vergessen
+      - 
+        - amicorum oblivisci
+  95: 
+    - 
+      - 
+        - Wohlwollen
+      - 
+        - benevolentia
+    - 
+      - 
+        - abscheulich, hässlich
+      - 
+        - taeter
+    - 
+      - 
+        - warum nicht?
+      - 
+        - quin
+    - 
+      - 
+        - nachbilden, nachahmen
+      - 
+        - imitari
+    - 
+      - 
+        - + Formen
+        - anziehen, anlegen
+      - 
+        - induere, induo, indui, indutum
+    - 
+      - 
+        - + Formen
+        - können
+      - 
+        - quire, quio, quivi
+    - 
+      - 
+        - + Formen
+        - nachrücken, nachfolgen
+      - 
+        - succedere, succedo, successi
+    - 
+      - 
+        - also, folglich
+      - 
+        - ergo
+    - 
+      - 
+        - wagen
+      - 
+        - audere
+  96: 
+    - 
+      - 
+        - Räuber
+      - 
+        - latro
+    - 
+      - 
+        - erfolglos, ungültig
+      - 
+        - irritus
+    - 
+      - 
+        - gelehrt
+      - 
+        - doctus
+    - 
+      - 
+        - sich rühmen, prahlen
+      - 
+        - gloriari
+    - 
+      - 
+        - + Formen
+        - hinstrecken, darreichen
+      - 
+        - porrigere, porrigo, porrexi, porrectum
+  97: 
+    - 
+      - 
+        - Ackerbau, Landwirtschaft
+      - 
+        - agricultura
+    - 
+      - 
+        - Bauer
+      - 
+        - agricola
+    - 
+      - 
+        - 1. Gebet  |  2. (Todes-)Strafe
+      - 
+        - supplicium
+    - 
+      - 
+        - Schweiß
+      - 
+        - sudor
+    - 
+      - 
+        - Bestattung, Leichenzug
+      - 
+        - funus
+    - 
+      - 
+        - freigiebig, reichlich
+      - 
+        - largus
+    - 
+      - 
+        - weiblich, weibisch
+      - 
+        - muliebris, muliebre
+    - 
+      - 
+        - mehrere
+      - 
+        - complures
+    - 
+      - 
+        - wie wenn, als ob
+      - 
+        - tamquam
+    - 
+      - 
+        - 1. überdies, noch dazu  |  2. freiwillig
+      - 
+        - ultro
+    - 
+      - 
+        - sich begeben
+      - 
+        - se conferre
+    - 
+      - 
+        - rühmen, preisen
+      - 
+        - laudibus efferre
+    - 
+      - 
+        - einen vor Gericht laden
+      - 
+        - alicui diem dicere
+  98: 
+    - 
+      - 
+        - Jugend(zeit)
+      - 
+        - adulescentia
+    - 
+      - 
+        - Unrecht, Frevel
+      - 
+        - nefas
+    - 
+      - 
+        - Rain, Grenzwall
+      - 
+        - limes
+    - 
+      - 
+        - nächtlich
+      - 
+        - nocturnus
+    - 
+      - 
+        - leer sein, frei sein
+      - 
+        - vacare
+    - 
+      - 
+        - berauben, ausplündern
+      - 
+        - spoliare
+    - 
+      - 
+        - begleiten
+      - 
+        - comitari
+    - 
+      - 
+        - umherschweifen, sich verbreiten
+      - 
+        - vagari
+    - 
+      - 
+        - + Formen
+        - herausgehen, hinausgehen
+      - 
+        - excedere, excedo, excessi
+    - 
+      - 
+        - Öffentlichkeit
+      - 
+        - publicum
+    - 
+      - 
+        - Trost
+      - 
+        - solacium
+    - 
+      - 
+        - Blitz(schlag)
+      - 
+        - fulmen
+    - 
+      - 
+        - Abzeichen, Kennzeichen
+      - 
+        - insigne
+    - 
+      - 
+        - Kleidung
+      - 
+        - vestitus
+    - 
+      - 
+        - zu groß, zu viel, übermäßig
+      - 
+        - nimius
+    - 
+      - 
+        - gesund
+      - 
+        - sanus
+    - 
+      - 
+        - absondern, trennen
+      - 
+        - separare
+    - 
+      - 
+        - berauben, wegnehmen
+      - 
+        - privare
+    - 
+      - 
+        - + Formen
+        - scheiden, unterscheiden
+      - 
+        - discernere, discerno, discrevi, discretum
+    - 
+      - 
+        - + Formen
+        - scheiden
+      - 
+        - distinguere, distinguo, distingui, distinctum
+  99: 
+    - 
+      - 
+        - Bühne, Szene
+      - 
+        - scaena
+    - 
+      - 
+        - Sprichwort
+      - 
+        - proverbium
+    - 
+      - 
+        - Erwartung
+      - 
+        - exspectatio
+    - 
+      - 
+        - strahlend, weiß
+      - 
+        - candidus
+    - 
+      - 
+        - 1. hell, klar  |  2. berühmt, vornehm
+      - 
+        - illustris, illustre
+    - 
+      - 
+        - der nähere
+      - 
+        - propior
+    - 
+      - 
+        - verbergen
+      - 
+        - occultare
+    - 
+      - 
+        - das Verdienst
+      - 
+        - meritum
+    - 
+      - 
+        - gewohnt, gebräuchlich
+      - 
+        - solitus
+    - 
+      - 
+        - opfern
+      - 
+        - immolare
+    - 
+      - 
+        - in Gegenwart
+      - 
+        - coram
+    - 
+      - 
+        - weiter, mehr
+      - 
+        - amplius
+    - 
+      - 
+        - + Formen
+        - erschüttern
+      - 
+        - concutere, concutio, concussi, concussum
+    - 
+      - 
+        - + Formen
+        - abstand nehmen, aufhören
+      - 
+        - desistere, desisto, destiti
+    - 
+      - 
+        - + Formen
+        - trinken
+      - 
+        - bibere, bibo, bibi
+    - 
+      - 
+        - (Beifall) klatschen
+      - 
+        - plaudere, plaudo, plausi, plausum
+  Fehlerkasten: 
+    - *1
+    - *2
+    - *3
+    - []
+

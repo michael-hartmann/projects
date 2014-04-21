@@ -1,0 +1,6 @@
+Vokabeltrainer
+==============
+
+Ein altes "Pet Project". Ein einfacher Vokabeltrainer in GTK2 (vocabulary.pl)
+und in ncurses (curses.pl), das mir beim Erlernen von Perl und von Vokabeln
+geholfen hat.

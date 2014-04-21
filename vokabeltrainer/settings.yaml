@@ -1,0 +1,10 @@
+--- 
+general:
+  mistake_unit: "Fehlerkasten"
+  logging: 1
+language:
+  native: "Deutsch"
+test:
+  shuffle: 1
+  reverse: 0
+  show_chars: 0
