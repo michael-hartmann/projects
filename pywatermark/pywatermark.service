@@ -1,0 +1,9 @@
+[Desktop Entry]
+ServiceTypes=image/*
+Actions=Wasserzeichen
+[Desktop Action Wasserzeichen]
+Name=Wasserzeichen Pyhton
+Icon=/home/ville/Wasserzeichen/Wasserz2Xciteklein.gif
+Exec=python /home/ville/Wasserzeichen/pywatermark/gui.py
+Terminal=true
+Type=Application
